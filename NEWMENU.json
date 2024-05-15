@@ -5,7 +5,7 @@
     "image": "assets/images/air.jpg",
     "image2": "assets/images/AER AI 340.png",
     "image3": "assets/go.png",
-    "level1": "The air we breath and more...",
+    "level1": "The air we breath",
     "level2": "UV Aerosol Detection - 340/380 nm",
     "input_name": "S5P AER AI 340&380 nm",
     "product_name": "Identifying the presence of UV absorbing aerosols such as desert dust and volcanic ash plumes. Positive values (from light blue to red) indicate the presence of UV-absorbing aerosol. This index is calculated for two pairs of wavelengths: 340/380 nm",
