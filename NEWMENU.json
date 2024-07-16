@@ -10,7 +10,8 @@
     "input_name": "S5P AER AI 340&380 nm",
     "product_name": "Identifying the presence of UV absorbing aerosols such as desert dust and volcanic ash plumes. Positive values (from light blue to red) indicate the presence of UV-absorbing aerosol. This index is calculated for two pairs of wavelengths: 340/380 nm",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "99de9474-9501-4b98-8ee6-e6c64a0ce7df",
@@ -23,7 +24,8 @@
     "input_name": "S5P AER AI 354&388 nm",
     "product_name": "Identifying the presence of UV absorbing aerosols such as desert dust and volcanic ash plumes. Positive values (from light blue to red) indicate the presence of UV-absorbing aerosol. This index is calculated for two pairs of wavelengths: 354/388 nm",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+     "enabled": "false"
   },
   {
     "id": "d97a4b13-abb5-4019-9d1f-39bc541cdd8a",
@@ -36,7 +38,8 @@
     "input_name": "S5P L2 CH4",
     "product_name": "The greenhouse effect leading element, Crucial data in parts per billion, 7 km x 3.5 km resolution",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+     "enabled": "false"
   },
   {
     "id": "bd4d75fa-a47e-4beb-8238-bff0afff715f",
@@ -49,7 +52,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "Height of cloud base measured in meters (m)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+     "enabled": "false"
   },
   {
     "id": "c61aebda-8592-4c3a-b2c1-bbf7be894c62",
@@ -62,7 +66,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "Pressure measured at cloud base in Pascal (Pa)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+     "enabled": "false"
   },
   {
     "id": "5b39aa7f-e180-42e3-9d51-5a24e97395d5",
@@ -75,7 +80,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "Effective radiometric cloud fraction represents the portion of the Earth's surface covered by clouds, divided by the total surface. Clouds have shielding, albedo, and in-cloud absorption effects on trace gas retrieval. The effective radiometric cloud fraction is an important parameter to correct these effects.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "7e323a7f-2d38-45bd-9b50-1930afd522e9",
@@ -88,7 +94,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "The cloud thickness is a key parameter to characterise optical properties of clouds. It is a measure of how much sunlight passes through the cloud to reach Earth's surface. The higher a cloud's optical thickness, the more sunlight the cloud is scattering and reflecting. Dark blue shows where there are low cloud optical thickness values and red shows larger cloud optical thickness.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "91bee939-75c6-437d-9d3b-49223739be93",
@@ -101,7 +108,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "Height of cloud top measured in meters (m).",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "683ead56-03d7-4d89-b533-08105c37fe51",
@@ -114,7 +122,8 @@
     "input_name": "S5P L2 CLoud",
     "product_name": "Pressure measured at cloud top in Pascal (Pa).",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "3831c526-ce36-46eb-93b7-205268d9bb5e",
@@ -127,7 +136,8 @@
     "input_name": "S5P L2 CO",
     "product_name": "Monitoring atmospheric CO levels in urban areas and beyond: Main sources of CO are combustion of fossil fuels, biomass burning, and atmospheric oxidation of methane and other hydrocarbons. The carbon monoxide total column is measured in mol per square meter (mol/ m^2)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "7d041493-4b73-410c-bb0b-7c3f0e471256",
@@ -140,7 +150,8 @@
     "input_name": "S5P L2 HCHO",
     "product_name": "Vital satellite observations for air quality and climate studies, tracking variations from regional to global scales: long term satellite observation are essential to support air quality and chemistry-climate related studies from the regional to the global scale. The seasonal and inter-annual variations of the formaldehyde distribution are principally related to temperature changes and fire events, but also to changes in anthropogenic (human-made) activities. Its lifetime being of the order of a few hours, HCHO concentrations in the boundary layer can be directly related to the release of short-lived hydrocarbons, which mostly cannot be observed directly from space. Measurements are in mol per square meter (mol/ m^2)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "edf2e53d-6a28-4152-85e1-2936491ddbb3",
@@ -153,7 +164,8 @@
     "input_name": "S5P NO2",
     "product_name": "The nitrogen oxides (Dioxide (NO2) and Oxide (NO)) are important trace gases in the Earth’s atmosphere, present in both the troposphere and the stratosphere. They enter the atmosphere as a result of anthropogenic activities (particularly fossil fuel combustion and biomass burning) and natural processes (such as microbiological processes in soils, wildfires and lightning). Measurements are in mol per square meter (mol/ m^2)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "9da15fae-723f-4645-bedb-3bc21f2104a2",
@@ -166,7 +178,8 @@
     "input_name": "S5P L2 O2",
     "product_name": "Crucial for atmospheric balance, ozone protects from UV radiation in the stratosphere, cleanses the troposphere, and influences climate change. It becomes dangerous at high concentration to the health of humans, animals and vegetation. It is an important greenhouse-gas contributor. Routinely monitored on the ground and from space in mol per square meter, since the discovery of the Antarctic ozone hole in the 1980s and the subsequent Montreal Protocol regulating the production of chlorine-containing ozone-depleting substances",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "1680abf4-d871-49dc-8019-92b4998031cd",
@@ -179,7 +192,8 @@
     "input_name": "S5P L2 SO2",
     "product_name": "Explore the dual nature of sulfur dioxide, from natural processes to human activities (about 70% of the overall emitted SO2). It plays a role in chemistry on a local and global scale and its impact ranges from short term pollution to effects on climate.  Sentinel-5P/TROPOMI provides daily insights with 3.5 x 7 km spatial resolution, capturing fine details of SO2 distribution in mol per square meter",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "14172403-fcd3-4e7f-baf9-9d78a657b1ea",
@@ -192,7 +206,8 @@
     "input_name": "S2 SWIR",
     "product_name": "Short wave infrared (SWIR) measurements can help scientists estimate how much water is present in plants and soil, as water absorbs SWIR wavelengths. Short wave infrared bands (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands) are also useful for distinguishing between cloud types (water clouds versus ice clouds), snow and ice, all of which appear white in visible light. In this composite vegetation appears in shades of green, soils and built-up areas are in various shades of brown, and water appears black. Newly burned land reflects strongly in SWIR bands, making them valuable for mapping fire damages. Each rock type reflects shortwave infrared light differently, making it possible to map out geology by comparing reflected SWIR light.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIxMiIsInYyIjoiQjhBIiwidjMiOiJCMDQiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
-    "script_riotiler": ""
+    "script_riotiler": "&rescale=0,1&color_formula=gamma rgb 1.2, sigmoidal rgb 3.0 0.13, saturation 1&expression=B12*2.5;B8A*2.5;B04*2.5&bands=B12,B8A,B04&asset_as_band=True", 
+    "enabled": "true"
   },
   {
     "id": "c42d94d1-abd1-4243-9c75-b9df6b243ce1",
@@ -205,7 +220,8 @@
     "input_name": "S2 SCM",
     "product_name": "Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "9f2963ef-901c-4777-8fb5-134de926ac5f",
@@ -218,7 +234,8 @@
     "input_name": "S1 SAR Urban",
     "product_name": "The script is useful for locating urban areas and individual buildings. It uses the gamma0 of the VH polarization and the VV polarizations to highlight different buildings and topology orientations with purple and green colors. It can be used to track urban expansion, estimate building type, or locate buildings in risk areas (e.g., flooding).For snowy and icy areas, the visualization can vary from white to purple to dark blue or even black. In order not to confuse cryogenic features with non-cryogenic ones, some general information about the location is helpful to interpret the image.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "31dd5dba-0450-4e2c-8691-2bad9fbddb0f",
@@ -231,7 +248,8 @@
     "input_name": "S1 RGB Ratio Urban",
     "product_name": "This script combines the gamma0 of the VV and VH polarizations into a false color visualization. It uses the VV polarization in the red channel, the VH polarization in the green channel, and a ratio of VH/VV in the blue channel. It shows water areas in dark red (black), urban areas in yellow, vegetated areas in turquoise, and bare ground in dark purple.For snowy and icy areas, the visualization can vary from light yellow to blue to red. In order not to confuse cryogenic features with non-cryogenic ones, some general information about the location is helpful in interpreting the image.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "d7fde1f1-047b-4e01-97d7-18c4559ff3bd",
@@ -244,7 +262,8 @@
     "input_name": "S2 TCI",
     "product_name": "This optimized True color script uses the visible light bands red, green and blue in the corresponding red, green and blue color channels, resulting in a product with natural colours that represents the Earth as humans would naturally see it. The visualisation uses highlight compression and improves the contrast and color vividness through minor contrast and saturation enhancement.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
-    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02"
+    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02",
+    "enabled": "true"
   },
   {
     "id": "b7682261-a207-4f68-abff-08027954c8e3",
@@ -257,7 +276,8 @@
     "input_name": "S2 False Color",
     "product_name": "A false color composite uses at least one non-visible wavelength to image Earth. The false color composite using near infrared, red and green bands is very popular (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands). The false colour composite is most commonly used to assess plant density and health, since plants reflect near infrared and green light, while they absorb red. Cities and exposed ground are grey or tan, and water appears blue or black.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIwOCIsInYyIjoiQjA0IiwidjMiOiJCMDMiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
-    "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8"
+    "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8",
+    "enabled": "true"
   },
   {
     "id": "e86406de-a063-4173-b614-5ed75769cd4d",
@@ -270,7 +290,8 @@
     "input_name": "S1 HH Decibellinear Gamma0",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HH polarization. The HH polarization is less sensitive to surface roughness compared to the VV polarization and is therefore used for detecting objects and hard targets such as ships. It provides good contrast between water and land surfaces. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "3fa83844-a6ff-4204-9f4d-59b19c40f719",
@@ -283,7 +304,8 @@
     "input_name": "S1 VH-Decibellinear Gamma0 ",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VH polarization. The values for the cross polarization (VH) are generally lower (darker visualization) than for the co-polarization (HH, VV). The VH polarization has higher values for surfaces characterized by volume scattering, e.g., branches, dry coil bodies, or canopies (lighter color in the visualization) and lower for surfaces with little to no scattering (darker color in the visualization). Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "",
+    "enabled": "false"
   },
   {
     "id": "33bf3193-914e-49a8-80eb-197a257c3a7f",
@@ -296,7 +318,8 @@
     "input_name": "S2 TCI",
     "product_name": "This optimized True color script uses the visible light bands red, green and blue in the corresponding red, green and blue color channels, resulting in a product with natural colours that represents the Earth as humans would naturally see it. The visualisation uses highlight compression and improves the contrast and color vividness through minor contrast and saturation enhancement.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
-    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02"
+    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02",
+    "enabled": "true"
   },
   {
     "id": "2780bd50-8992-4aeb-9415-801e6b3ed6f8",
@@ -309,7 +332,8 @@
     "input_name": "S2 False Color",
     "product_name": "A false color composite uses at least one non-visible wavelength to image Earth. The false color composite using near infrared, red and green bands is very popular (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands). The false colour composite is most commonly used to assess plant density and health, since plants reflect near infrared and green light, while they absorb red. Cities and exposed ground are grey or tan, and water appears blue or black. Typical resolution is 60 m. It can be affected by the presence of clouds",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIwOCIsInYyIjoiQjA0IiwidjMiOiJCMDMiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
-    "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8"
+    "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8", 
+    "enabled": "true"
   },
   {
     "id": "821a4fec-a844-4e88-badb-4cc59a709dd0",
@@ -322,7 +346,8 @@
     "input_name": "S2 NDSI",
     "product_name": "The Sentinel-2 normalised difference snow index can be used to differentiate between cloud and snow cover as snow absorbs in the short-wave infrared light, but reflects the visible light, whereas cloud is generally reflective in both wavelengths. Snow cover is represented in bright vivid blue. Typical resolution is 60 m. It can be affected by the presence of clouds",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsgImV4cHJlc3Npb25fMyI6ICJ3aGVyZSggd2hlcmUoKHYxICE9IC12MiksICh2MSAtIHYyKSAvIChtYXNrZWRfaW52YWxpZCh2MSkgKyBtYXNrZWRfaW52YWxpZCh2MikpLG5hbikgPiAwLjQyLCAwLjAsIDIuNSp2MykiLCAiZXhwcmVzc2lvbl80IjogIndoZXJlKCB3aGVyZSgodjEgIT0gLXYyKSwgKHYxIC0gdjIpIC8gKG1hc2tlZF9pbnZhbGlkKHYxKSArIG1hc2tlZF9pbnZhbGlkKHYyKSksbmFuKSA+IDAuNDIsIDAuOCwgMi41KnYxKSIsICJleHByZXNzaW9uXzUiOiAid2hlcmUoIHdoZXJlKCh2MSAhPSAtdjIpLCAodjEgLSB2MikgLyAobWFza2VkX2ludmFsaWQodjEpICsgbWFza2VkX2ludmFsaWQodjIpKSxuYW4pID4gMC40MiwgMSwgMi41KnY0KSIsICJ2MSI6ICJCMDMiLCAidjIiOiAiQjExIiwgInYzIjogIkIwNCIsICJ2NCI6ICJCMDIiLCAic3RyZXRjaF9yYW5nZSI6IFswLCAxXX19",
-    "script_riotiler": "&rescale=0,1&bands=B02,B03,B11&expression=where(((B03 - B11) / (B03+ B11)) > 0.42, 0.0, 2.5* B04);where( ((B03 - B11) / (B03+ B11)) > 0.42, 0.8, 2.5* B03);where(((B03 - B11) / (B03+ B11)) > 0.42, 1, 2.5* B02);&asset_as_band=True"
+    "script_riotiler": "&rescale=0,1&bands=B02,B03,B11&expression=where(((B03 - B11) / (B03+ B11)) > 0.42, 0.0, 2.5* B04);where( ((B03 - B11) / (B03+ B11)) > 0.42, 0.8, 2.5* B03);where(((B03 - B11) / (B03+ B11)) > 0.42, 1, 2.5* B02);&asset_as_band=True", 
+    "enabled": "true"
   },
   {
     "id": "a3db196b-fab2-4643-8a3b-fd29c8f8fccd",
@@ -335,7 +360,8 @@
     "input_name": "S2 SCM",
     "product_name": "Ice/snow in pink.Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "40adb874-9d69-4e66-abbf-58b3828d4697",
@@ -348,7 +374,8 @@
     "input_name": "S3 SLSTR F2 Brightness Temperature ",
     "product_name": "Ice in blue. Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution. It can be affected by the presence of clouds)",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "e78961ea-457c-4c7f-adb7-9e26d92f4a3b",
@@ -361,7 +388,8 @@
     "input_name": "S1 VH-Decibellinear Gamma0 ",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HV polarization. The values for the cross polarization (HV) are generally lower (darker visualization) than for the co-polarization (HH, VV). The HV polarization has higher values for surfaces characterized by volume scattering, e.g., branches, dry coil bodies, or canopies (lighter color in the visualization) and lower for surfaces with little to no scattering (darker color in the visualization). Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "5d44bdc1-6a58-44f0-9a9c-990d4f65e8ba",
@@ -374,7 +402,8 @@
     "input_name": "S2 TCI",
     "product_name": "This optimized True color script uses the visible light bands red, green and blue in the corresponding red, green and blue color channels, resulting in a product with natural colours that represents the Earth as humans would naturally see it. The visualisation uses highlight compression and improves the contrast and color vividness through minor contrast and saturation enhancement.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
-    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02"
+    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "enabled": "true"
   },
   {
     "id": "df155c8d-70b7-44e9-bb6a-a0b9962c758d",
@@ -387,7 +416,8 @@
     "input_name": "S2 NDVI",
     "product_name": "The normalized difference vegetation index is a simple, but effective index for quantifying green vegetation. It is a measure of the state of vegetation health based on how plants reflect light at certain wavelengths. The value range of the NDVI is -1 to 1. Negative values of NDVI (values approaching -1) correspond to water. Values close to zero (-0.1to 0.1) generally correspond to barren areas of rock, sand, or snow. Low, positive values represent shrub and grassland (approximately 0.2 to 0.4), while high values indicate temperate and tropical rainforests (values approaching 1).",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsgImV4cHJlc3Npb24iOiAid2hlcmUoKHYxICE9IC12MiksICh2MSAtIHYyKSAvIChtYXNrZWRfaW52YWxpZCh2MSkgKyBtYXNrZWRfaW52YWxpZCh2MikpLCBuYW4pIiwgInYxIjogIkIwOCIsICJ2MiI6ICJCMDQiLCAic3RyZXRjaF9yYW5nZSI6IFstMSwgMV0sICJjb2xvcm1hcCI6IFtbLTEuMCwgIjB4MDEwMTAxIl0sIFstMC41LCIweDBjMGMwYyJdLFsgLTAuMiwiMHhiZmJmYmYiXSxbLTAuMSwiMHhkYmRiZGIiXSxbMCwiMHhlYWVhZWEiXSxbMC4wMjUsIjB4ZmZmOWNjIl0sWzAuMDUsICIweGVkZThiNSJdLFswLjA3NSwiMHhkZGQ4OWIiXSxbMC4xLCIweGNjYzY4MiJdLFswLjEyNSwiMHhiY2I3NmIiXSxbMC4xNSwiMHhhZmMxNjAiXSxbMC4xNzUsIjB4YTNjYzU5Il0sWzAuMiwiMHg5MWJmNTEiXSxbMC4yNSwiMHg3ZmIyNDciXSxbMC4zLCIweDcwYTMzZiJdLFswLjM1LCIweDYwOTYzNSJdLFswLjQsIjB4NGY4OTJkIl0sWzAuNDUsIjB4M2Y3YzIzIl0sWzAuNSwiMHgzMDZkMWMiXSxbMC41NSwiMHgyMTYwMTEiXSxbMC42LCIweDBmNTQwYSJdLFsxLCIweDAxNDQwMSJdXX19",
-    "script_riotiler": "&asset_as_band=True&bands=B08,B04,B02&expression=(B08-B04)/(B08+B04)&colormap=[[[-1.0, -0.5], [127.5, 127.5, 127.5, 255]],[[-0.5, -0.2], [191.25, 191.25, 191.25, 255]],[[-0.2, -0.1], [219.3, 219.3, 219.3, 255]],[[-0.1, 0], [235.6, 235.6, 235.6, 255]],[[0, 0.025], [255, 250.9, 204, 255]],[[0.025, 0.05], [237.15, 232.05, 180.05, 255]],[[0.05, 0.075], [222.45, 216.75, 155.55, 255]],[[0.075, 0.1], [204, 198.9, 130.05, 255]],[[0.1, 0.125], [188.7, 183.6, 107.1, 255]],[[0.125, 0.15], [176.95, 193.8, 97.1, 255]],[[0.15, 0.175], [163.2, 204, 89.25, 255]],[[0.175, 0.2], [145.35, 191.25, 81.6, 255]],[[0.2, 0.25], [127.5, 178.5, 71.4, 255]],[[0.25, 0.3], [112.2, 163.2, 63.75, 255]],[[0.3, 0.35], [96.9, 150.45, 53.55, 255]],[[0.35, 0.4], [79.05, 137.7, 45.9, 255]],[[0.4, 0.45], [63.75, 125.95, 35.7, 255]],[[0.45, 0.5], [48.45, 109.65, 28.05, 255]],[[0.5, 0.55], [33.15, 97.05, 17.85, 255]],[[0.55, 0.6], [15.3, 84.15, 10.2, 255]],[[0.6, 1], [0, 68.85, 0, 255]]]"
+    "script_riotiler": "&asset_as_band=True&bands=B08,B04,B02&expression=(B08-B04)/(B08+B04)&colormap=[[[-1.0, -0.5], [127.5, 127.5, 127.5, 255]],[[-0.5, -0.2], [191.25, 191.25, 191.25, 255]],[[-0.2, -0.1], [219.3, 219.3, 219.3, 255]],[[-0.1, 0], [235.6, 235.6, 235.6, 255]],[[0, 0.025], [255, 250.9, 204, 255]],[[0.025, 0.05], [237.15, 232.05, 180.05, 255]],[[0.05, 0.075], [222.45, 216.75, 155.55, 255]],[[0.075, 0.1], [204, 198.9, 130.05, 255]],[[0.1, 0.125], [188.7, 183.6, 107.1, 255]],[[0.125, 0.15], [176.95, 193.8, 97.1, 255]],[[0.15, 0.175], [163.2, 204, 89.25, 255]],[[0.175, 0.2], [145.35, 191.25, 81.6, 255]],[[0.2, 0.25], [127.5, 178.5, 71.4, 255]],[[0.25, 0.3], [112.2, 163.2, 63.75, 255]],[[0.3, 0.35], [96.9, 150.45, 53.55, 255]],[[0.35, 0.4], [79.05, 137.7, 45.9, 255]],[[0.4, 0.45], [63.75, 125.95, 35.7, 255]],[[0.45, 0.5], [48.45, 109.65, 28.05, 255]],[[0.5, 0.55], [33.15, 97.05, 17.85, 255]],[[0.55, 0.6], [15.3, 84.15, 10.2, 255]],[[0.6, 1], [0, 68.85, 0, 255]]]", 
+    "enabled": "true"
   },
   {
     "id": "76dc6357-34a9-4166-b0e8-0b6172e64689",
@@ -400,7 +430,8 @@
     "input_name": "S2 NDMI",
     "product_name": "The normalized difference moisture Index (NDMI) is used to determine vegetation water content and monitor droughts. The value range of the NDMI is -1 to 1. Negative values of NDMI (values approaching -1) correspond to barren soil. Values around zero (-0.2 to 0.4) generally correspond to water stress. High, positive values represent high canopy without water stress (approximately 0.4 to 1).",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsgImV4cHJlc3Npb24iOiAid2hlcmUoKHYxICE9IHYyKSwgKHYxIC0gdjIpIC8gKG1hc2tlZF9pbnZhbGlkKHYxKSArIG1hc2tlZF9pbnZhbGlkKHYyKSksIG5hbikiLCJ2MSI6ICJCOEEiLCAidjIiOiAiQjExIiwgInN0cmV0Y2hfcmFuZ2UiOiBbLTEsIDFdLCAiY29sb3JtYXAiOiBbWy0xLjAsICIweDYwMDAwMCJdLCBbLTAuOCwgIjB4ODAwMDAwIl0sIFstMC4yNCwgIjB4ZmYwMDAwIl0sIFstMC4wMzIsICIweGZmZmYwMCJdLFswLjAzMiwgIjB4MDBmZmZmIl0sWzAuMjQsICIweDAwMDBmZiJdLCBbMC44LCAiMHgwMDAwODAiXSwgWzEuMCwgIjB4MDAwMDYwIl1dfX0=",
-    "script_riotiler": "&asset_as_band=True&expression=(B8A-B11)/(B8A+B11)&colormap=[[[-1,-0.8],[126,0,11,255]],[[-0.8,-0.6],[162,0,13,255]],[[-0.6,-0.2],[255,0,23,255]],[[-0.2,-0.08],[255,102,39,255]],[[-0.08,-0.03],[252,255,63,255]],[[-0.03,-0.01],[127,255,135,255]],[[-0.01,0.01],[81,255,161,255]],[[0.01,0.032],[0,255,253,255]],[[0.032,0.1],[0,187,252,255]],[[0.1,0.24],[24,16,237,255]],[[0.24,0.8],[20,13,196,255]],[[0.8,1],[0,0,128,255]]]"
+    "script_riotiler": "&asset_as_band=True&expression=(B8A-B11)/(B8A+B11)&colormap=[[[-1,-0.8],[126,0,11,255]],[[-0.8,-0.6],[162,0,13,255]],[[-0.6,-0.2],[255,0,23,255]],[[-0.2,-0.08],[255,102,39,255]],[[-0.08,-0.03],[252,255,63,255]],[[-0.03,-0.01],[127,255,135,255]],[[-0.01,0.01],[81,255,161,255]],[[0.01,0.032],[0,255,253,255]],[[0.032,0.1],[0,187,252,255]],[[0.1,0.24],[24,16,237,255]],[[0.24,0.8],[20,13,196,255]],[[0.8,1],[0,0,128,255]]]", 
+    "enabled": "true"
   },
   {
     "id": "711da24a-753d-4c3c-a183-4d4e08f8b377",
@@ -413,7 +444,8 @@
     "input_name": "S2 SCM",
     "product_name": "Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "20868d6a-4fef-49b9-9b2b-70d492e7614d",
@@ -426,7 +458,8 @@
     "input_name": "S3 OTCI",
     "product_name": "Regional scale. The Terrestrial Chlorophyll Index (OTCI) is estimated based on the chlorophyll content in terrestrial vegetation and can be used to monitor vegetation condition and health. Low OTCI values usually signify water, sand or snow. Extremely high values, displayed with white, usually suggest the absence of chlorophyll as well. They generally represent either bare ground, rock or clouds. The chlorophyll values in between range from red (low chlorophyll values) to dark green (high chlorophyll values) can be used to determine vegetation health.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "bdd18b29-7201-4e03-9721-5df37ad1f266",
@@ -436,10 +469,11 @@
     "image3": "assets/go.png",
     "level1": "Land Life and Use",
     "level2": "Plant Density and Health",
-    "input_name": "SLSTR False Color",
+    "input_name": "S3 SLSTR False Color",
     "product_name": "Regional Scale. A false color composite uses at least one non-visible wavelength to image Earth. The false color composite using near infrared, red and green bands is very popular (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands). The false colour composite is most commonly used to assess plant density and health, since plants reflect near infrared and green light, while they absorb red. Cities and exposed ground are grey or tan, and water appears blue or black.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "97dea60e-2a16-4e05-9647-51fa601f15c6",
@@ -452,7 +486,8 @@
     "input_name": "S1 VV Decibellar Gamma0",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "d60e2348-2c1d-49c8-a206-b4bb13821c61",
@@ -465,7 +500,8 @@
     "input_name": "S1 HH Linear Gamma0",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HH polarization. The HH polarization is less sensitive to surface roughness compared to the VV polarization and is therefore used for detecting objects and hard targets such as ships. It provides good contrast between water and land surfaces. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "f1d96f77-2967-407f-87b4-3a65be03c47b",
@@ -478,7 +514,8 @@
     "input_name": "S1 VV Decibellar Gamma0",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "4a4c93e7-e5f5-4d55-8833-89616e3e88c9",
@@ -491,7 +528,8 @@
     "input_name": "S1 Enhanced Visualisation",
     "product_name": "This script combines the gamma0 of the VV and VH polarizations into a false color visualization. It displays water areas in blue (partially black) and land in different shades of yellow/green. Urban areas are displayed in a light green-yellow (towards white), vegetated areas in mustard green and bare ground in a darker green. For snowy and icy areas, the visualization can vary from light green-yellow over brighter green to dark brown or even black. In order not to confuse cryogenic features with non-cryogenic ones, some general information about the location is helpful in interpreting the image.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "862669a9-dc24-4b89-accd-05759ebd04c6",
@@ -504,7 +542,8 @@
     "input_name": "S2 TCI",
     "product_name": "This optimized True color script uses the visible light bands red, green and blue in the corresponding red, green and blue color channels, resulting in a product with natural colours that represents the Earth as humans would naturally see it. The visualisation uses highlight compression and improves the contrast and color vividness through minor contrast and saturation enhancement.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
-    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02"
+    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "enabled": "true"
   },
   {
     "id": "285fad84-d4ad-4c85-a715-9506a83da123",
@@ -517,7 +556,8 @@
     "input_name": "S2 NDWI",
     "product_name": "The normalized difference water index is most appropriate for water body mapping. Values of water bodies are larger than 0.5. Vegetation has smaller values. Built-up features have positive values between zero and 0.2.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsgImV4cHJlc3Npb24iOiAid2hlcmUoIHdoZXJlKCh2MSAhPSAtdjIpLCAodjEgLSB2MikgLyAobWFza2VkX2ludmFsaWQodjEpICsgbWFza2VkX2ludmFsaWQodjIpKSxuYW4pIDwgMCwgd2hlcmUoKHYxICE9IC12MiksICh2MSAtIHYyKSAvIChtYXNrZWRfaW52YWxpZCh2MSkgKyBtYXNrZWRfaW52YWxpZCh2MikpLG5hbiksIHNxcnQoc3FydCggd2hlcmUoKHYxICE9IC12MiksICh2MSAtIHYyKSAvIChtYXNrZWRfaW52YWxpZCh2MSkgKyBtYXNrZWRfaW52YWxpZCh2MikpLG5hbikpKSkiLCAidjEiOiAiQjAzIiwgInYyIjogIkIwOCIsICJzdHJldGNoX3JhbmdlIjogWy0xLCAxXSwiY29sb3JtYXAiOltbLTEsIjB4MDA4MDAwIl0sWzAsIjB4RkZGRkZGIl0sWzEsIjB4MDAwMENDIl1dfX0=",
-    "script_riotiler": "&asset_as_band=True&bands=B08,B03&expression=where(((B03-B08)/(B03+B08))<0, (B03-B08)/(B03+B08),sqrt(sqrt(((B03-B08)/(B03+B08)))));&colormap=[[[-1,-0.6],[22,184,77,255]],[[-0.6, -0,4],[107,244,153,255]],[[-0.4,-0.1],[199,249,216,255]],[[-0.1,0.1],[255,255,255,255]],[[0.1,0.2],[214,211,253,255]],[[0.2,0.4],[153,150,252,255]],[[0.4,0.6],[100,94,249,255]],[[0.6,0.8],[33,25,246,255]],[[0.8,1],[25,18,207,255]]]"
+    "script_riotiler": "&asset_as_band=True&bands=B08,B03&expression=where(((B03-B08)/(B03+B08))<0, (B03-B08)/(B03+B08),sqrt(sqrt(((B03-B08)/(B03+B08)))));&colormap=[[[-1,-0.6],[22,184,77,255]],[[-0.6, -0,4],[107,244,153,255]],[[-0.4,-0.1],[199,249,216,255]],[[-0.1,0.1],[255,255,255,255]],[[0.1,0.2],[214,211,253,255]],[[0.2,0.4],[153,150,252,255]],[[0.4,0.6],[100,94,249,255]],[[0.6,0.8],[33,25,246,255]],[[0.8,1],[25,18,207,255]]]", 
+    "enabled": "true"
   },
   {
     "id": "9276474e-c47a-4db7-8da9-351afec2d99f",
@@ -530,7 +570,8 @@
     "input_name": "S2 TCI",
     "product_name": "This optimized True color script uses the visible light bands red, green and blue in the corresponding red, green and blue color channels, resulting in a product with natural colours that represents the Earth as humans would naturally see it. The visualisation uses highlight compression and improves the contrast and color vividness through minor contrast and saturation enhancement.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
-    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02"
+    "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "enabled": "true"
   },
   {
     "id": "48b9a94b-21d7-46f8-9dd0-817cf45ae3b6",
@@ -543,7 +584,8 @@
     "input_name": "S3 SLSTR F1 Brightness Temperature",
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F1 Channel, with a central wavelength of 3742 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "da06bf33-ebec-4dfe-9783-b919808dcdfc",
@@ -556,7 +598,8 @@
     "input_name": "S3 SLSTR F2 Brightness Temperature",
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "de8140ce-2ea1-44c7-b21a-3d6f5f4a5169",
@@ -569,7 +612,8 @@
     "input_name": "S2 SWIR",
     "product_name": "Short wave infrared (SWIR) measurements can help scientists estimate how much water is present in plants and soil, as water absorbs SWIR wavelengths. Short wave infrared bands (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands) are also useful for distinguishing between cloud types (water clouds versus ice clouds), snow and ice, all of which appear white in visible light. In this composite vegetation appears in shades of green, soils and built-up areas are in various shades of brown, and water appears black. Newly burned land reflects strongly in SWIR bands, making them valuable for mapping fire damages. Each rock type reflects shortwave infrared light differently, making it possible to map out geology by comparing reflected SWIR light.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIxMiIsInYyIjoiQjhBIiwidjMiOiJCMDQiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
-    "script_riotiler": "&rescale=0,1&color_formula=gamma rgb 1.2, sigmoidal rgb 3.0 0.13, saturation 1&expression=B12*2.5;B8A*2.5;B04*2.5&bands=B12,B8A,B04&asset_as_band=True"
+    "script_riotiler": "&rescale=0,1&color_formula=gamma rgb 1.2, sigmoidal rgb 3.0 0.13, saturation 1&expression=B12*2.5;B8A*2.5;B04*2.5&bands=B12,B8A,B04&asset_as_band=True", 
+    "enabled": "true"
   },
   {
     "id": "a163fc10-74ae-4dae-8ee1-cd966938d2f9",
@@ -582,7 +626,8 @@
     "input_name": "S3 SLSTR F1 Brightness Temperature",
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F1 Channel, with a central wavelength of 3742 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "052eee4d-8837-4f89-94d2-15b6e14a7854",
@@ -595,7 +640,8 @@
     "input_name": "S3 SLSTR F2 Brightness Temperature",
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "2087b3f9-048b-4482-9767-2408f41855e3",
@@ -608,7 +654,8 @@
     "input_name": "S1 VV Decibellar Gamma0",
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "39af6b8a-c395-44ff-ab4c-2a0c7fec173c",
@@ -621,7 +668,8 @@
     "input_name": "S5P L2 CH4",
     "product_name": "Large scale fires methane monitoring on wet areas",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "a05e66cd-d58f-4fda-b877-ecdd0e728bf0",
@@ -634,7 +682,8 @@
     "input_name": "S5P L2 CO",
     "product_name": "Large scale CO monitoring",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "896a1bb4-0cb1-4eae-8be0-5536bb22d564",
@@ -647,7 +696,8 @@
     "input_name": "S5P L2 HCHO",
     "product_name": "Large scale Formaldehyde monitoring",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "fef5b8ca-05ac-4311-97d5-6afc47173ef6",
@@ -660,7 +710,8 @@
     "input_name": "S5P NO2",
     "product_name": "Large scale Nitrogen Dioxide monitoring",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "ba35af74-91cd-4f7b-b905-ee98f71fa6dc",
@@ -673,7 +724,8 @@
     "input_name": "S5P AER AI 340&380 nm",
     "product_name": "Large scale Aerosol monitoring",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   },
   {
     "id": "6fd03273-400d-4d5e-abc1-73caa5f6ec6c",
@@ -686,6 +738,7 @@
     "input_name": "S5P AER AI 354&388 nm",
     "product_name": "Large scale Aerosol monitoring",
     "script": "",
-    "script_riotiler": ""
+    "script_riotiler": "", 
+    "enabled": "false"
   }
 ]
