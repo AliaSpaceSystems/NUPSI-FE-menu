@@ -614,7 +614,7 @@
     "image2": "assets/images/TCI.png",
     "image3": "assets/go.png",
     "level1": "Waters on Land",
-    "level2": "A picture from Space",
+    "level2": "A Picture from Space",
     "input_name": "S2 TCI",
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (B04-red, B03-green, and B02-blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
