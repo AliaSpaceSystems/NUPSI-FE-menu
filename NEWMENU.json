@@ -11,6 +11,7 @@
     "product_name": "Identifying the presence of UV absorbing aerosols such as desert dust and volcanic ash plumes. Positive values (from light blue to red) indicate the presence of UV-absorbing aerosol. This index is calculated for two pairs of wavelengths: 340/380 nm",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -27,6 +28,7 @@
     "product_name": "Identifying the presence of UV absorbing aerosols such as desert dust and volcanic ash plumes. Positive values (from light blue to red) indicate the presence of UV-absorbing aerosol. This index is calculated for two pairs of wavelengths: 354/388 nm",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -43,6 +45,7 @@
     "product_name": "The greenhouse effect leading element, Crucial data in parts per billion, 7 km x 3.5 km resolution",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -59,6 +62,7 @@
     "product_name": "Height of cloud base measured in meters (m)",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -75,6 +79,7 @@
     "product_name": "Pressure measured at cloud base in Pascal (Pa)",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -91,6 +96,7 @@
     "product_name": "Effective radiometric cloud fraction represents the portion of the Earth's surface covered by clouds, divided by the total surface. Clouds have shielding, albedo, and in-cloud absorption effects on trace gas retrieval. The effective radiometric cloud fraction is an important parameter to correct these effects.",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -107,6 +113,7 @@
     "product_name": "The cloud thickness is a key parameter to characterise optical properties of clouds. It is a measure of how much sunlight passes through the cloud to reach Earth's surface. The higher a cloud's optical thickness, the more sunlight the cloud is scattering and reflecting. Dark blue shows where there are low cloud optical thickness values and red shows larger cloud optical thickness.",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -123,6 +130,7 @@
     "product_name": "Height of cloud top measured in meters (m).",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -139,6 +147,7 @@
     "product_name": "Pressure measured at cloud top in Pascal (Pa).",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -155,6 +164,7 @@
     "product_name": "Monitoring atmospheric CO levels in urban areas and beyond: Main sources of CO are combustion of fossil fuels, biomass burning, and atmospheric oxidation of methane and other hydrocarbons. The carbon monoxide total column is measured in mol per square meter (mol/ m^2)",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -171,6 +181,7 @@
     "product_name": "Vital satellite observations for air quality and climate studies, tracking variations from regional to global scales: long term satellite observation are essential to support air quality and chemistry-climate related studies from the regional to the global scale. The seasonal and inter-annual variations of the formaldehyde distribution are principally related to temperature changes and fire events, but also to changes in anthropogenic (human-made) activities. Its lifetime being of the order of a few hours, HCHO concentrations in the boundary layer can be directly related to the release of short-lived hydrocarbons, which mostly cannot be observed directly from space. Measurements are in mol per square meter (mol/ m^2)",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -187,6 +198,7 @@
     "product_name": "The nitrogen oxides (Dioxide (NO2) and Oxide (NO)) are important trace gases in the Earth’s atmosphere, present in both the troposphere and the stratosphere. They enter the atmosphere as a result of anthropogenic activities (particularly fossil fuel combustion and biomass burning) and natural processes (such as microbiological processes in soils, wildfires and lightning). Measurements are in mol per square meter (mol/ m^2)",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -203,6 +215,7 @@
     "product_name": "Crucial for atmospheric balance, ozone protects from UV radiation in the stratosphere, cleanses the troposphere, and influences climate change. It becomes dangerous at high concentration to the health of humans, animals and vegetation. It is an important greenhouse-gas contributor. Routinely monitored on the ground and from space in mol per square meter, since the discovery of the Antarctic ozone hole in the 1980s and the subsequent Montreal Protocol regulating the production of chlorine-containing ozone-depleting substances",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -219,6 +232,7 @@
     "product_name": "Explore the dual nature of sulfur dioxide, from natural processes to human activities (about 70% of the overall emitted SO2). It plays a role in chemistry on a local and global scale and its impact ranges from short term pollution to effects on climate.  Sentinel-5P/TROPOMI provides daily insights with 3.5 x 7 km spatial resolution, capturing fine details of SO2 distribution in mol per square meter",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -235,6 +249,7 @@
     "product_name": "Among the bands available on the Sentinel-2 MSI sensor for imaging the Earth, the Short Wave Infrared (SWIR) spectrum stands out due to its unique characteristics. SWIR is strongly absorbed by water, resulting in low reflectance, and is not highly affected by thermal variations. It can penetrate smog, fog, and thin clouds, and exhibits specific reflection properties over different materials, allowing for day and night imaging provided there is sufficient ambient light. These properties make SWIR invaluable for several applications: assessing moisture in plants and soil; differentiating water bodies from other surfaces; distinguishing between water and ice clouds, as well as snow and ice from other surfaces, all of which appear white in visible light; evaluating vegetation health and types; identifying various soil types and built-up areas; mapping different rock types due to their distinct SWIR reflectance; and assessing fire damage, as newly burned land strongly reflects SWIR. In the default composite imagery, vegetation appears in shades of green, soils and built-up areas in various shades of brown, and water appears black. The bands used for this visualisation are the B12-SWIR, B8A-Short NIR  and B04-Red with a composite resolution of 20 m.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIxMiIsInYyIjoiQjhBIiwidjMiOiJCMDQiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
     "script_riotiler": "&rescale=0,1&color_formula=gamma rgb 1.2, sigmoidal rgb 3.0 0.13, saturation 1&expression=B12*2.5;B8A*2.5;B04*2.5&bands=B12,B8A,B04&asset_as_band=True", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -251,6 +266,7 @@
     "product_name": "Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -266,7 +282,8 @@
     "input_name": "S1 SAR Urban",
     "product_name": "The script is useful for locating urban areas and individual buildings. It uses the gamma0 of the VH polarization and the VV polarizations to highlight different buildings and topology orientations with purple and green colors. It can be used to track urban expansion, estimate building type, or locate buildings in risk areas (e.g., flooding).For snowy and icy areas, the visualization can vary from white to purple to dark blue or even black. In order not to confuse cryogenic features with non-cryogenic ones, some general information about the location is helpful to interpret the image.",
     "script": "",
-    "script_riotiler": "&assets=VV&asset_bidx=VV%7C1&rescale=-1%2C1&color_formula=gamma+rgb+0.3%2C+sigmoidal+rgb+3.0+0.18%2C+saturation+1.0&expression=VH%2A5.5%3E0.5%3BVV%3BVH%2A8&asset_as_band=True",
+    "script_riotiler": "&assets=VV&asset_bidx=VV&rescale=-1,1&color_formula=gamma+rgb+0.3,sigmoidal rgb 3.0 0.18, saturation 1.0&expression=VH*5.5>0.5;VV;VH*8&asset_as_band=True",
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -283,6 +300,7 @@
     "product_name": "This script processes the gamma0 values from the VV and VH polarizations of the Sentinel-1 mission to create a false-color visualization using the RGB ratio technique. The VV polarization is mapped to the red channel, the VH polarization to the green channel, and the ratio of VH to VV is assigned to the blue channel. This method allows for distinct visual differentiation of various land cover types. Water bodies are displayed in dark red or black, urban areas appear in yellow, vegetated regions show up in turquoise, while bare ground is rendered in dark purple. For snow-covered or icy areas, the color scheme can vary from light yellow to blue to red. To avoid misinterpreting cryogenic features as non-cryogenic, general geographic information about the location is helpful in interpreting the image accurately.",
     "script": "",
     "script_riotiler": "&assets=VV&asset_bidx=VV|1&rescale=-1,1&color_formula=gamma rgb 0.65, sigmoidal rgb 3 0.9, saturation 1.4&expression=VV/0.28;VH/0.06;VH/VV/0.49&asset_as_band=True",
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -299,6 +317,7 @@
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (B04-red, B03-green, and B02-blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
     "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02",
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -315,6 +334,7 @@
     "product_name": "Among the bands available on the Sentinel-2 MSI sensor for imaging the Earth, the False Color composite uses the near-infrared (B8-NIR), red (B4), and green (B3) bands in the red, green, and blue color channels, respectively. This combination highlights vegetation in bright red, as healthy plants strongly reflect NIR and green lights while absorbing red. Water bodies appear dark, and urban areas appear in shades of grey or tan. This makes the False Color composite particularly useful for assessing plant health, monitoring water bodies, distinguishing between different types of land cover, and identifying features in urban landscapes. The enhanced contrast and unique color assignments make it easier to analyze various environmental and man-made features, providing clear insights not as evident in true color imagery. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIwOCIsInYyIjoiQjA0IiwidjMiOiJCMDMiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
     "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8",
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -331,6 +351,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HH polarization. The HH polarization is less sensitive to surface roughness compared to the VV polarization and is therefore used for detecting objects and hard targets such as ships. It provides good contrast between water and land surfaces. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -347,6 +368,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VH polarization. The values for the cross polarization (VH) are generally lower (darker visualization) than for the co-polarization (HH, VV). The VH polarization has higher values for surfaces characterized by volume scattering, e.g., branches, dry coil bodies, or canopies (lighter color in the visualization) and lower for surfaces with little to no scattering (darker color in the visualization). Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "",
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -363,6 +385,7 @@
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (red, green, and blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters, and the presence of clouds can affect the visualization due to the use of visible bands.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
     "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02",
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -379,6 +402,7 @@
     "product_name": "Among the bands available on the Sentinel-2 MSI sensor for imaging the Earth, the False Color composite uses the near-infrared (B8-NIR), red (B4), and green (B3) bands in the red, green, and blue color channels, respectively. This combination highlights vegetation in bright red, as healthy plants strongly reflect NIR and green lights while absorbing red. Water bodies appear dark, and urban areas appear in shades of grey or tan. This makes the False Color composite particularly useful for assessing plant health, monitoring water bodies, distinguishing between different types of land cover, and identifying features in urban landscapes. The enhanced contrast and unique color assignments make it easier to analyze various environmental and man-made features, providing clear insights not as evident in true color imagery. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIwOCIsInYyIjoiQjA0IiwidjMiOiJCMDMiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
     "script_riotiler": "&rescale=0,1&expression=B08;B04;B03&bands=B08,B04,B03&asset_as_band=True&color_formula=gamma rgb 1.8, sigmoidal rgb 3.0 0.13, saturation 1.8", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -412,6 +436,7 @@
     "product_name": "Ice/snow in pink.Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -428,6 +453,7 @@
     "product_name": "Ice in blue. Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution. It can be affected by the presence of clouds)",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -444,6 +470,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HV polarization. The values for the cross polarization (HV) are generally lower (darker visualization) than for the co-polarization (HH, VV). The HV polarization has higher values for surfaces characterized by volume scattering, e.g., branches, dry coil bodies, or canopies (lighter color in the visualization) and lower for surfaces with little to no scattering (darker color in the visualization). Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -460,6 +487,7 @@
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (B04-red, B03-green, and B02-blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
     "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -510,6 +538,7 @@
     "product_name": "Scene classification was developed to distinguish between cloudy pixels, clear pixels and water pixels of Sentinel-2 data and is a result of ESA's Scene classification algorithm. Twelve different classifications are provided including classes of clouds, vegetation, soils/desert, water and snow. It does not constitute a land cover classification map in a strict sense.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -526,6 +555,7 @@
     "product_name": "Regional scale. The Terrestrial Chlorophyll Index (OTCI) is estimated based on the chlorophyll content in terrestrial vegetation and can be used to monitor vegetation condition and health. Low OTCI values usually signify water, sand or snow. Extremely high values, displayed with white, usually suggest the absence of chlorophyll as well. They generally represent either bare ground, rock or clouds. The chlorophyll values in between range from red (low chlorophyll values) to dark green (high chlorophyll values) can be used to determine vegetation health.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -542,6 +572,7 @@
     "product_name": "Regional Scale. A false color composite uses at least one non-visible wavelength to image Earth. The false color composite using near infrared, red and green bands is very popular (a band is a region of the electromagnetic spectrum; a satellite sensor can image Earth in different bands). The false colour composite is most commonly used to assess plant density and health, since plants reflect near infrared and green light, while they absorb red. Cities and exposed ground are grey or tan, and water appears blue or black.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -558,6 +589,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -574,6 +606,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the HH polarization. The HH polarization is less sensitive to surface roughness compared to the VV polarization and is therefore used for detecting objects and hard targets such as ships. It provides good contrast between water and land surfaces. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -590,6 +623,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -605,7 +639,8 @@
     "input_name": "S1 Enhanced Visualisation",
     "product_name": "This script combines the gamma0 of the VV and VH polarizations into a false color visualization. It displays water areas in blue (partially black) and land in different shades of yellow/green. Urban areas are displayed in a light green-yellow (towards white), vegetated areas in mustard green and bare ground in a darker green. For snowy and icy areas, the visualization can vary from light green-yellow over brighter green to dark brown or even black. In order not to confuse cryogenic features with non-cryogenic ones, some general information about the location is helpful in interpreting the image.",
     "script": "",
-    "script_riotiler": "&asset_bidx=VV%7C1&rescale=-1%2C1&color_formula=gamma+rgb+0.3%2C+sigmoidal+rgb+3+0.18%2C+saturation+1.0&expression=where%28VV+%2F+VH+%3E+25%2C+VV%2C+3%2AVV%29+%3B+where%28VV+%2F+VH+%3E+25%2C8+%2A+VV%2C++1.1+%2A+VV+%2B+8.75+%2A+VH%29%3B+where%28VV+%2F+VH+%3E+25%2C0.5+%2B+3+%2A+VV+%2B+2000+%2A+VH%2C+1.75+%2A+VH%29&asset_as_band=True", 
+    "script_riotiler": "&asset_bidx=VV&rescale=-1,1&color_formula=gamma rgb 0.3, sigmoidal rgb 3 0.18, saturation 1.0&expression=where(VV/VH>25, VV, 3*VV); where(VV/VH>25, 8*VV, 1.1 * VV + 8.75 * VH); where(VV/VH>25, 0.5 + 3 * VV + 2000 * VH, 1.75 * VH)&asset_as_band=True", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -622,6 +657,7 @@
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (B04-red, B03-green, and B02-blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
     "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -655,6 +691,7 @@
     "product_name": "This Sentinel-2 optimized true color image uses the visible light bands (B04-red, B03-green, and B02-blue) in their corresponding color channels, resulting in natural colors that represent the Earth as humans would see it. The visualization applies highlight compression and enhances contrast and color vividness through minor adjustments, offering a more vibrant and clear depiction. The available resolution is 10 meters.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6IHsiZXhwcmVzc2lvbl8zIjogInYxICogIDIuNSIsICJleHByZXNzaW9uXzQiOiAidjIgKiAgMi41IiwgImV4cHJlc3Npb25fNSI6ICJ2MyAqIDIuNSIsICAidjEiOiJCMDQiLCAidjIiOiAiQjAzIiwgInYzIjogIkIwMiIsInN0cmV0Y2hfcmFuZ2UiOiBbMCwgMV19fQ==",
     "script_riotiler": "&asset_as_band=True&rescale=0,1&color_formula=gamma rgb 1.1, sigmoidal rgb 3.0 0.13, saturation 1.0&expression=B04*2.5;B03*2.5;B02*2.5&bands=B04,B03,B02", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -671,6 +708,7 @@
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F1 Channel, with a central wavelength of 3742 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -687,6 +725,7 @@
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -703,6 +742,7 @@
     "product_name": "Among the bands available on the Sentinel-2 MSI sensor for imaging the Earth, the Short Wave Infrared (SWIR) spectrum stands out due to its unique characteristics. SWIR is strongly absorbed by water, resulting in low reflectance, and is not highly affected by thermal variations. It can penetrate smog, fog, and thin clouds, and exhibits specific reflection properties over different materials, allowing for day and night imaging provided there is sufficient ambient light. These properties make SWIR invaluable for several applications: assessing moisture in plants and soil; differentiating water bodies from other surfaces; distinguishing between water and ice clouds, as well as snow and ice from other surfaces, all of which appear white in visible light; evaluating vegetation health and types; identifying various soil types and built-up areas; mapping different rock types due to their distinct SWIR reflectance; and assessing fire damage, as newly burned land strongly reflects SWIR. In the default composite imagery, vegetation appears in shades of green, soils and built-up areas in various shades of brown, and water appears black. The bands used for this visualisation are the B12-SWIR, B8A-Short NIR  and B04-Red with a composite resolution of 20 m.",
     "script": "eyJwb3N0cHJvY2Vzc2luZyI6eyJleHByZXNzaW9uXzMiOiJ2MSIsImV4cHJlc3Npb25fNCI6InYyIiwiZXhwcmVzc2lvbl81IjoidjMiLCJ2MSI6IkIxMiIsInYyIjoiQjhBIiwidjMiOiJCMDQiLCJzdHJldGNoX3JhbmdlIjpbMCwxXSwgImNvbG9ybWFwXzE2IjogW1swLjAsICIweDAwMDAwMCJdLCBbMC4xLCAiMHgwMDAwMDAiXSwgWzAuMzc2LCAiMHhFQkVCRUIiXSwgWzAuNywgIjB4ZmZmZmZmIl0sICBbMS4wLCAiMHhmZmZmZmYiXV0gfX0=",
     "script_riotiler": "&rescale=0,1&color_formula=gamma rgb 1.2, sigmoidal rgb 3.0 0.13, saturation 1&expression=B12*2.5;B8A*2.5;B04*2.5&bands=B12,B8A,B04&asset_as_band=True", 
+    "script_statistics": "",
     "enabled": "true",
     "satellite": "Sentinel-2",
     "image4": "assets/images/Sentinel-2.jpg"
@@ -719,6 +759,7 @@
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F1 Channel, with a central wavelength of 3742 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -735,6 +776,7 @@
     "product_name": "Sentinel-3 Sea and Land Surface Temperature Instrument (SLSTR) has two dedicated channels (F1 and F2) that aim to detect Land Surface Temperature (LST). F2 Channel, with a central wavelength of 10854 nm measures in the thermal infrared, or TIR. It is very useful for fire and high temperature event monitoring at 1 km resolution.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-3",
     "image4": "assets/images/Sentinel-3.jpg"
@@ -751,6 +793,7 @@
     "product_name": "This script displays a grayscale visualization of the gamma0 of the VV polarization. Compared to the HH polarization, the VV polarization is more sensitive to surface roughness and is therefore often used in the detection of oil contamination or wake detection. Compared to the linear gamma0 visualization, the decibel gamma0 visualization includes a logarithmic scaling of the data.",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-1",
     "image4": "assets/images/Sentinel-1.jpg"
@@ -767,6 +810,7 @@
     "product_name": "Large scale fires methane monitoring on wet areas",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -783,6 +827,7 @@
     "product_name": "Large scale CO monitoring",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -799,6 +844,7 @@
     "product_name": "Large scale Formaldehyde monitoring",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -815,6 +861,7 @@
     "product_name": "Large scale Nitrogen Dioxide monitoring",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -831,6 +878,7 @@
     "product_name": "Large scale Aerosol monitoring",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
@@ -847,6 +895,7 @@
     "product_name": "Large scale Aerosol monitoring",
     "script": "",
     "script_riotiler": "", 
+    "script_statistics": "",
     "enabled": "false",
     "satellite": "Sentinel-5P",
     "image4": "assets/images/Sentinel-5.jpg"
