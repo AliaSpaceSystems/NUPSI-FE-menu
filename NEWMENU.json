@@ -636,7 +636,7 @@
     "image3": "assets/go.png",
     "level1": "Waters on Land",
     "level2": "Highlighted Water Areas",
-    "input_name": "S1 Enhanced Color Visualisation",
+    "input_name": "S1 Enhanced Color Visualization",
     "product_name": "The Sentine1-1 Enhanced Color Visualization script merges the gamma0 values of VV and VH polarizations into a false-color image. Water bodies are shown in blue to partially black, while land appears in shades of yellow and green. Urban areas are depicted in light green-yellow, vegetated regions in mustard green, and bare ground in darker green. In snowy or icy areas, colors range from light green-yellow to bright green, brown, and black. To avoid confusion between cryogenic and non-cryogenic features, general location information is helpful for image interpretation. Compared to S1 SAR Urban, which focuses on identifying urban areas and individual buildings, S1 Enhanced Color Visualization offers a broader view, distinguishing between water, land, and terrain types. While S1 SAR Urban excels in tracking urban expansion and analyzing buildings, S1 Enhanced Color Visualization is more suited for environmental and landscape studies. On the other hand it differs from the RGB Ratio that uses the VV, VH, and VH/VV ratio to create a more contrasted image that highlights urban areas, water, and vegetation with distinct colors.",
     "script": "",
     "script_riotiler": "&asset_bidx=VV|1&rescale=-1,1&color_formula=gamma rgb 0.3, sigmoidal rgb 3 0.18, saturation 1.0&expression=where(VV / VH > 25, VV, 3 * VV); where(VV / VH > 25, 8 * VV, 1.1 * VV + 8.75 * VH); where(VV / VH > 25, 0.5 + 3 * VV + 2000 * VH, 1.75 * VH)&asset_as_band=True", 
