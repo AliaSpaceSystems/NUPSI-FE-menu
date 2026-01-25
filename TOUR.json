@@ -41,7 +41,7 @@
     },
     {
       "title": "See again",
-      "element": ".fa-circle-info",
+      "element": "#info",
       "intro": "Button to walktrough again tour."
     }
   ]
