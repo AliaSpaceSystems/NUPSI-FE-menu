@@ -11,7 +11,7 @@
     },
     {
       "title": "Navigation Menu",
-      "element": "#what",
+      "element": ".what_mediaquery",
       "intro": "In this section, you can see the selected visualizer"
     },
     {
