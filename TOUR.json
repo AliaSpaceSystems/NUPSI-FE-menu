@@ -38,6 +38,11 @@
       "title": "Visualizer Menu Switching",
       "element": ".menu_switch_button_active_satellite_hover",
       "intro": "Button to select satellite view."
+    },
+    {
+      "title": "See again",
+      "element": "#tour_btn",
+      "intro": "Button to walktrough again tour."
     }
   ]
 }
