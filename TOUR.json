@@ -16,6 +16,11 @@
     },
     {
       "title": "Navigation Menu",
+      "element": ".what_mediaquery",
+      "intro": "In this section, you can see the selected visualizer"
+    },
+    {
+      "title": "Navigation Menu",
       "element": "#when",
       "intro": "In this section, you can see the selected month"
     },
