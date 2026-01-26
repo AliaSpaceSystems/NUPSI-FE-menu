@@ -40,6 +40,11 @@
       "intro": "Button to select satellite view."
     },
     {
+      "title": "Upload custom areas",
+      "element": "#appMapMenu>div>div",
+      "intro": "Button to walktrough again tour."
+    },
+    {
       "title": "See again",
       "element": "#info",
       "intro": "Button to walktrough again tour."
