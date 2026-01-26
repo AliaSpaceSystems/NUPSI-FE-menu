@@ -42,8 +42,18 @@
     {
       "title": "Upload custom areas",
       "element": "#appMapMenu>div>div",
-      "intro": "Button to walktrough again tour."
+      "intro": "Button to request a visualizer cut for a custom area."
     },
+    {
+      "title": "Custom area drawing mode",
+      "element": ".shape_draw_icon",
+      "intro": "Button to enter drawing mode create for a custom area."
+    },    
+    {
+      "title": "Download the provided artifact",
+      "element": ".download-container",
+      "intro": "Button to request the download fo a currently showed geotiff."
+    },        
     {
       "title": "See again",
       "element": "#info",
