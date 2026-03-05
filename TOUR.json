@@ -26,17 +26,17 @@
       "intro": "In this section, you can see the selected product."
     },
     {
-      "title": "Product",
+      "title": "Browse Products",
       "element": ".form-control.bg-transparent.border-secondary.text-white",
       "intro": "Browse through the product catalog using this menu."
     },
     {
-      "title": "Product",
+      "title": "Browse Products",
       "element": ".btn-primary.btn-sm.flex-fill:not(.btn-outline-primary)",
       "intro": "Products are categorized by topic in the Explore tab..."
     },
     {
-      "title": "Product",
+      "title": "Browse Products",
       "element": ".btn-outline-primary.btn-sm.flex-fill",
       "intro": "... and by source in the Satellite tab."
     },
@@ -56,21 +56,25 @@
       "intro": "In this section, you can see the selected place."
     },
     {
-      "title": "Location",
-      "intro": "You can select different NUTS levels by zooming in and out on the map."
+      "title": "Location: Navigate NUTS level",
+      "intro": "You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing"
     },
     {
-      "title": "Location",
+      "title": "Location: Deselect",
+      "intro": "To deselect an area, just click again on it or select a different area"
+    },
+    {
+      "title": "Location: Search Bar",
       "element": ".fa-magnifying-glass",
       "intro": "You can also select a location using the search bar."
     },
     {
-      "title": "Location",
+      "title": "Location: Custom Area",
       "element": ".shape_draw_icon",
       "intro": "And you can draw your custom area using the polygon tool."
     },
     {
-      "title": "Download the provided artifact",
+      "title": "Downloads",
       "element": ".download-container",
       "intro": "Download your GeoTIFFs and GeoJSON using this download button."
     },
@@ -80,7 +84,7 @@
       "intro": "And if you want to use a GeoJSON of your own, click on the upload button."
     },
     {
-      "title": "Log In",
+      "title": "Login",
       "element": "#appMapMenu>div>div",
       "intro": "Remember: Download, upload and favorites list features are only available for logged in users."
     },
