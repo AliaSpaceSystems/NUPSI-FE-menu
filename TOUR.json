@@ -1,63 +1,95 @@
 {
+
   "steps": [
     {
       "title": "Welcome to NUPSI",
       "intro": "Let's take a quick tour."
     },
     {
-      "title": "Login Menu",
+      "title": "Login",
       "element": "#login",
       "intro": "Use this button to log in and access your downloads and favorites."
     },
     {
+      "title": "Imagery",
+      "element": ".offcanvas-start",
+      "intro": "You can customize your map with the Imagery menu."
+    },
+    {
       "title": "Navigation Menu",
       "element": "#what",
-      "intro": "In this section, you can see the selected visualizer"
+      "intro": "In this section, you can see the selected product."
     },
     {
-      "title": "Navigation Menu",
+      "title": "Product",
+      "element": "#what",
+      "intro": "In this section, you can see the selected product."
+    },
+    {
+      "title": "Product",
+      "element": ".form-control.bg-transparent.border-secondary.text-white",
+      "intro": "Browse through the product catalog using this menu."
+    },
+    {
+      "title": "Product",
+      "element": ".btn-primary.btn-sm.flex-fill:not(.btn-outline-primary)",
+      "intro": "Products are categorized by topic in the Explore tab..."
+    },
+    {
+      "title": "Product",
+      "element": ".btn-outline-primary.btn-sm.flex-fill",
+      "intro": "... and by source in the Satellite tab."
+    },
+    {
+      "title": "Time Frame",
       "element": "#when",
-      "intro": "In this section, you can see the selected month"
+      "intro": "In this section, you can see the selected month."
     },
     {
-      "title": "Navigation Menu",
+      "title": "Time Frame",
+      "element": "#when",
+      "intro": "Use the arrows to select a month of your choosing."
+    },
+    {
+      "title": "Location",
       "element": "#where",
-      "intro": "In this section, you can see the selected place"
+      "intro": "In this section, you can see the selected place."
     },
     {
-      "title": "Visualizer Menu",
+      "title": "Location",
       "element": ".offcanvas-start",
-      "intro": "Button to select mode view."
+      "intro": "You can select different NUTS levels by zooming in and out on the map."
     },
     {
-      "title": "Visualizer Menu Switching",
-      "element": ".menu-switch-button",
-      "intro": "Button to select theme view."
+      "title": "Location",
+      "element": ".fa-magnifying-glass",
+      "intro": "You can also select a location using the search bar."
     },
     {
-      "title": "Visualizer Menu Switching",
-      "element": ".menu_switch_button_active_satellite_hover",
-      "intro": "Button to select satellite view."
-    },
-    {
-      "title": "Upload custom areas",
-      "element": "#appMapMenu>div>div",
-      "intro": "Button to request a visualizer cut for a custom area."
-    },
-    {
-      "title": "Custom area drawing mode",
+      "title": "Location",
       "element": ".shape_draw_icon",
-      "intro": "Button to enter drawing mode create for a custom area."
-    },    
+      "intro": "And you can draw your custom area using the polygon tool."
+    },
     {
       "title": "Download the provided artifact",
       "element": ".download-container",
-      "intro": "Button to request the download fo a currently showed geotiff."
-    },        
+      "intro": "Download your GeoTIFFs and GeoJSON using this download button."
+    },
+      {
+      "title": "Upload custom areas",
+      "element": "#appMapMenu>div>div",
+      "intro": "And if you want to use a GeoJSON of your own, click on the upload button."
+    },
     {
-      "title": "See again",
+      "title": "Log In",
+      "element": "#appMapMenu>div>div",
+      "intro": "Remember: Download, upload and favorites list features are only available for logged in users."
+    },
+    {
+      "title": "See you soon!",
       "element": "#info",
-      "intro": "Button to walktrough again tour."
+      "intro": "If you want to take the tour again, just click the Info button and then select Tour Interface."
     }
   ]
-}
+ }
+
