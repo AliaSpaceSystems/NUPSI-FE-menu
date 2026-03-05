@@ -75,7 +75,7 @@
     },
     {
       "title": "Login",
-      "element": "#appMapMenu>div>div",
+      "element": ".download-container",
       "intro": "Remember: Downloads and favorites lists features are only available for logged in users."
     },
       {
