@@ -5,79 +5,24 @@
       "intro": "Let's take a quick tour."
     },
     {
-      "title": "Login",
+      "title": "Login Menu",
       "element": "#login",
       "intro": "Use this button to log in and access your downloads and favorites."
     },
     {
       "title": "Navigation Menu",
       "element": "#what",
-      "intro": "In this section, you can see the selected product"
+      "intro": "In this section, you can see the selected visualizer"
     },
     {
-      "title": "Product",
-      "element": "#what",
-      "intro": "In this section, you can see the selected product"
-    },
-    {
-      "title": "Product",
-      "element": ".header-z",
-      "intro": "Browse through the product catalog using this menu"
-    },
-    {
-      "title": "Product",
-      "element": "button:contains(\"Explore\")",
-      "intro": "Products are categorized by topic in the Explore tab..."
-    },
-    {
-      "title": "Product",
-      "element": "button:contains(\"Satellite\")",
-      "intro": "... and by source in the Satellite tab"
-    },
-    {
-      "title": "Time Frame",
+      "title": "Navigation Menu",
       "element": "#when",
       "intro": "In this section, you can see the selected month"
     },
     {
-      "title": "Time Frame",
-      "element": "#when",
-      "intro": "Use the arrows to select a month of your choosing"
-    },
-    {
-      "title": "Location",
+      "title": "Navigation Menu",
       "element": "#where",
       "intro": "In this section, you can see the selected place"
-    },
-    {
-      "title": "Location",
-      "element": "#where",
-      "intro": "You can select different NUTS levels by zooming in and out on the map"
-    },
-    {
-      "title": "Location",
-      "element": "[aria-label=\"Search\"]",
-      "intro": "You can also select a location using the search bar"
-    },
-    {
-      "title": "Location",
-      "element": "[title=\"Click to enter drawing mode\"]",
-      "intro": "And you can draw your custom area using the polygon tool"
-    },
-    {
-      "title": "Visualizer Menu",
-      "element": ".offcanvas-start",
-      "intro": "Button to select mode view."
-    },
-    {
-      "title": "Visualizer Menu",
-      "element": ".offcanvas-start",
-      "intro": "Button to select mode view."
-    },
-    {
-      "title": "Visualizer Menu",
-      "element": ".offcanvas-start",
-      "intro": "Button to select mode view."
     },
     {
       "title": "Visualizer Menu",
