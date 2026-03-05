@@ -12,7 +12,7 @@
     },
     {
       "title": "Imagery",
-      "element": ".offcanvas-start",
+      "element": ".cesium-baseLayerPicker-selected",
       "intro": "You can customize your map with the Imagery menu."
     },
     {
@@ -57,7 +57,6 @@
     },
     {
       "title": "Location",
-      "element": ".offcanvas-start",
       "intro": "You can select different NUTS levels by zooming in and out on the map."
     },
     {
