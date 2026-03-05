@@ -27,7 +27,7 @@
     },
     {
       "title": "Browse Products",
-      "element": ".form-control.bg-transparent.border-secondary.text-white",
+      "element": ".bi-search",
       "intro": "Browse through the product catalog using this menu."
     },
     {
@@ -76,7 +76,7 @@
     {
       "title": "Downloads",
       "element": ".download-container",
-      "intro": "Download your GeoTIFFs and GeoJSON using this download button."
+      "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
     },
       {
       "title": "Upload custom areas",
