@@ -16,11 +16,6 @@
       "intro": "You can customize your map with the Imagery menu."
     },
     {
-      "title": "Navigation Menu",
-      "element": "#what",
-      "intro": "In this section, you can see the selected product."
-    },
-    {
       "title": "Product",
       "element": "#what",
       "intro": "In this section, you can see the selected product."
@@ -28,7 +23,7 @@
     {
       "title": "Browse Products",
       "element": ".bi-search",
-      "intro": "Browse through the product catalog using this menu."
+      "intro": "Search for a product or browse through the product catalog using this menu."
     },
     {
       "title": "Browse Products",
@@ -69,7 +64,7 @@
       "intro": "You can also select a location using the search bar."
     },
     {
-      "title": "Location: Custom Area",
+      "title": "Location: Custom Areas",
       "element": ".shape_draw_icon",
       "intro": "And you can draw your custom area using the polygon tool."
     },
@@ -78,16 +73,17 @@
       "element": ".download-container",
       "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
     },
-      {
-      "title": "Upload custom areas",
-      "element": "#appMapMenu>div>div",
-      "intro": "And if you want to use a GeoJSON of your own, click on the upload button."
-    },
     {
       "title": "Login",
       "element": "#appMapMenu>div>div",
-      "intro": "Remember: Download, upload and favorites list features are only available for logged in users."
+      "intro": "Remember: Downloads and favorites lists features are only available for logged in users."
     },
+      {
+      "title": "Upload custom areas",
+      "element": "#appMapMenu>div>div",
+      "intro": "If you want to use a GeoJSON of your own, click on the upload button."
+    },
+
     {
       "title": "See you soon!",
       "element": "#info",
