@@ -22,7 +22,7 @@
     },
     {
       "title": "Browse Products",
-      "element": ".bi-search",
+      "element": ".bi-chevron-left",
       "intro": "Search for a product or browse through the product catalog using this menu."
     },
     {
