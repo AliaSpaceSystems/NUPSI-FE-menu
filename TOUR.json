@@ -12,12 +12,12 @@
     },
     {
       "title": "Imagery",
-      "element": ".cesium-baseLayerPicker-selected",
+      "element": ".tool-btn",
       "intro": "You can customize your map with the Imagery menu."
     },
     {
       "title": "Product",
-      "element": "#what",
+      "element": ".info-fav-wrap",
       "intro": "In this section, you can see the selected product."
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "Browse Products",
-      "element": ".btn-primary.btn-sm.flex-fill:not(.btn-outline-primary)",
+      "element": ".sidebar-tabs.tab.active",
       "intro": "Products are categorized by topic in the Explore tab..."
     },
     {
