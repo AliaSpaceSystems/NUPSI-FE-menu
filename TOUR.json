@@ -7,17 +7,17 @@
     },
     {
       "title": "Login",
-      "element": ".auth-wrapper",
+      "element": "#login",
       "intro": "Use this button to log in and access your downloads and favorites."
     },
     {
       "title": "Imagery",
-      "element": ".tool-btn",
+      "element": ".cesium-baseLayerPicker-selected",
       "intro": "You can customize your map with the Imagery menu."
     },
     {
       "title": "Product",
-      "element": ".info-fav-wrap",
+      "element": "#what",
       "intro": "In this section, you can see the selected product."
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "Browse Products",
-      "element": ".sidebar-tabs.tab.active",
+      "element": ".btn-primary.btn-sm.flex-fill:not(.btn-outline-primary)",
       "intro": "Products are categorized by topic in the Explore tab..."
     },
     {
@@ -91,4 +91,3 @@
     }
   ]
  }
-
