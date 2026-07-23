@@ -298,7 +298,7 @@
     "input_name": "S1 SAR Urban",
     "product_name": "The Sentinel-1 SAR urban script is designed for identifying urban areas and individual buildings using data from Sentinel-1. By analyzing the gamma0 values of the VH and VV polarizations, it highlights buildings and topographic orientations with purple and green hues. This tool is especially useful for monitoring urban expansion, estimating building types, and identifying structures in risk-prone areas, such as flood zones. In snowy or icy regions, the visualization can shift across a spectrum from white and purple to dark blue or black. To prevent confusion between cryogenic and non-cryogenic features, contextual information about the location is valuable for accurate image interpretation.",
     "script": "",
-    "script_riotiler": "&assets=VV&asset_bidx=VV|1&rescale=-1,1&color_formula=gamma rgb 0.3, sigmoidal rgb 3.0 0.18, saturation 1.0&expression=VH * 5.5 > 0.5; VV; VH * 8&asset_as_band=True",
+    "script_riotiler": "&assets=VV&asset_bidx=VV|1&rescale=-1,1&color_formula=gamma rgb 0.3, sigmoidal rgb 3.0 0.18, saturation 1.0&expression=VH*5.5>0.5;VV;VH*8&asset_as_band=True",
     "script_mosaics": "",
     "script_statistics": "",
     "enabled": "true",
