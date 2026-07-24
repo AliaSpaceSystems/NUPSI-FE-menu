@@ -1,93 +1,91 @@
 {
-
-  "steps": [
-    {
-      "title": "Welcome to NUPSI",
-      "intro": "Let's take a quick tour."
-    },
-    {
-      "title": "Login",
-      "element": "#login",
-      "intro": "Use this button to log in and access your downloads and favorites."
-    },
-    {
-      "title": "Imagery",
-      "element": ".cesium-baseLayerPicker-selected",
-      "intro": "You can customize your map with the Imagery menu."
-    },
-    {
-      "title": "Product",
-      "element": "#what",
-      "intro": "In this section, you can see the selected product."
-    },
-    {
-      "title": "Browse Products",
-      "element": ".bi-chevron-left",
-      "intro": "Search for a product or browse through the product catalog using this menu."
-    },
-    {
-      "title": "Browse Products",
-      "element": ".btn-primary.btn-sm.flex-fill:not(.btn-outline-primary)",
-      "intro": "Products are categorized by topic in the Explore tab..."
-    },
-    {
-      "title": "Browse Products",
-      "element": ".btn-outline-primary.btn-sm.flex-fill",
-      "intro": "... and by source in the Satellite tab."
-    },
-    {
-      "title": "Time Frame",
-      "element": "#when",
-      "intro": "In this section, you can see the selected month."
-    },
-    {
-      "title": "Time Frame",
-      "element": "#when",
-      "intro": "Use the arrows to select a month of your choosing."
-    },
-    {
-      "title": "Location",
-      "element": "#where",
-      "intro": "In this section, you can see the selected place."
-    },
-    {
-      "title": "Location: Navigate NUTS level",
-      "intro": "You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing"
-    },
-    {
-      "title": "Location: Deselect",
-      "intro": "To deselect an area, just click again on it or select a different area"
-    },
-    {
-      "title": "Location: Search Bar",
-      "element": ".fa-magnifying-glass",
-      "intro": "You can also select a location using the search bar."
-    },
-    {
-      "title": "Location: Custom Areas",
-      "element": ".shape_draw_icon",
-      "intro": "And you can draw your custom area using the polygon tool."
-    },
-    {
-      "title": "Downloads",
-      "element": ".download-container",
-      "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
-    },
-    {
-      "title": "Login",
-      "element": ".download-container",
-      "intro": "Remember: Downloads and favorites lists features are only available for logged in users."
-    },
-      {
-      "title": "Upload custom areas",
-      "element": "#appMapMenu>div>div",
-      "intro": "If you want to use a GeoJSON of your own, click on the upload button."
-    },
-
-    {
-      "title": "See you soon!",
-      "element": "#info",
-      "intro": "If you want to take the tour again, just click the Info button and then select Tour Interface."
-    }
-  ]
+ "steps": [
+ {
+ "title": "Welcome to NUPSI",
+ "intro": "Let's take a quick tour."
+ },
+ {
+ "title": "Login",
+ "element": "#login",
+ "intro": "Use this button to log in and access your downloads and favorites."
+ },
+ {
+ "title": "Imagery",
+ "element": "#rail-imagery-btn",
+ "intro": "You can customize your map with the Imagery menu."
+ },
+ {
+ "title": "Product",
+ "element": "#what",
+ "intro": "In this section, you can see the selected product."
+ },
+ {
+ "title": "Browse Products",
+ "element": ".sidebar-menu",
+ "intro": "Search for a product or browse through the product catalog using this menu."
+ },
+ {
+ "title": "Browse Products",
+ "element": ".btn-primary.btn-sm.flex-fill",
+ "intro": "Products are categorized by topic in the Explore tab..."
+ },
+ {
+ "title": "Browse Products",
+ "element": ".btn-outline-primary.btn-sm.flex-fill",
+ "intro": "... and by source in the Satellite tab."
+ },
+ {
+ "title": "Time Frame",
+ "element": "#when",
+ "intro": "In this section, you can see the selected month."
+ },
+ {
+ "title": "Time Frame",
+ "element": "#when",
+ "intro": "Use the arrows to select a month of your choosing."
+ },
+ {
+ "title": "Location",
+ "element": "#where",
+ "intro": "In this section, you can see the selected place."
+ },
+ {
+ "title": "Location: Navigate NUTS level",
+ "intro": "You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing."
+ },
+ {
+ "title": "Location: Deselect",
+ "intro": "To deselect an area, just click again on it or select a different area."
+ },
+ {
+ "title": "Location: Search Bar",
+ "element": ".fa-magnifying-glass",
+ "intro": "You can also select a location using the search bar."
+ },
+ {
+ "title": "Location: Custom Areas",
+ "element": ".polygon-wrapper",
+ "intro": "And you can draw your custom area using the polygon tool."
+ },
+ {
+ "title": "Downloads",
+ "element": ".download-container",
+ "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
+ },
+ {
+ "title": "Login",
+ "element": ".download-container",
+ "intro": "Remember: Downloads and favorites lists features are only available for logged in users."
+ },
+ {
+ "title": "Upload custom areas",
+ "element": "#appMapMenu .mapmenu-icons",
+ "intro": "If you want to use a GeoJSON of your own, click on the upload button."
+ },
+ {
+ "title": "See you soon!",
+ "element": "#info",
+ "intro": "If you want to take the tour again, just click the Info button and then select Tour Interface."
+ }
+ ]
  }
