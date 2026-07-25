@@ -11,7 +11,7 @@
  },
  {
  "title": "Imagery",
- "element": ".side-toolbar-btn,
+ "element": ".side-toolbar-btn",
  "intro": "You can customize your map with the Imagery menu."
  },
  {
