@@ -6,7 +6,7 @@
  },
  {
  "title": "Login",
- "element": "#login",
+ "element": ".signin-wrap",
  "intro": "Use this button to log in and access your downloads and favorites."
  },
  {
