@@ -11,7 +11,7 @@
  },
  {
  "title": "Imagery",
- "element": "#rail-imagery-btn",
+ "element": ".side-toolbar-btn[0],
  "intro": "You can customize your map with the Imagery menu."
  },
  {
