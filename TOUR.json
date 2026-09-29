@@ -5,6 +5,10 @@
         "intro": "Let's take a quick tour."
       },
       {
+         "title":"test",
+          "intro":"test"
+      },
+      {
         "title": "Login",
         "element": ".signin-btn",
         "intro": "Use this button to log in and access your downloads and favorites."
