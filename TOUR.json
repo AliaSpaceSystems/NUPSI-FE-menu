@@ -6,6 +6,7 @@
       },
       {
          "title":"test",
+          "element":".ai-modify-panel",
           "intro":"test"
       },
       {
