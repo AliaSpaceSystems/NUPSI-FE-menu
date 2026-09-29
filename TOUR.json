@@ -4,7 +4,7 @@
         "title": "Welcome to NUPSI",
         "intro": "Let's take a quick tour."
       },
-     {"title":"CHATBOX",".ai-modify-panel","dfgdfgdfghdfgh" },
+     {"title":"CHATBOX","element": ".ai-modify-panel","intro":"dfgdfgdfghdfgh" },
       {
         "title": "Login",
         "element": ".signin-btn",
