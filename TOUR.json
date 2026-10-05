@@ -26,18 +26,18 @@
       },
       {
         "title": "Time Frame",
-        "element": ".month-panel",
-        "intro": "In this section, you can check the selected month: WHEN it refers to."
+        "element": ".month-panel .month-info",
+        "intro": "In this section, you can check the selected month: WHEN the displayed product refers to."
       },
       {
         "title": "Time Frame",
-        "element": ".month-panel",
+        "element": ".month-panel .month-nav:last-child",
         "intro": "Use the arrows to select a month of your choosing."
       },
       {
         "title": "Location",
         "element": ".where-panel",
-        "intro": "In this section, you can check the selected place: WHERE it refers to."
+        "intro": "In this section, you can check the selected place: WHERE the displayed product refers to."
       },
       {
         "title": "Choose the Location",
@@ -62,17 +62,17 @@
       {
         "title": "Statistics",
         "element": "[data-tooltip^=\"Statistics\"]",
-        "intro": "... Analyze data statistics."
+        "intro": "... Analyze data statistics..."
       },
       {
         "title": "Stories",
         "element": "[data-tooltip=\"Stories\"]",
-        "intro": "... Play timelapse-style animations."
+        "intro": "... Play timelapse-style animations..."
       },
       {
         "title": "Split view",
         "element": "[data-tooltip^=\"Compare\"]",
-        "intro": "... And compare two different products over the same area through the vertical split line."
+        "intro": "... And compare two different products over the same area through a vertical split line."
       },
       {
         "title": "Navigate NUTS level",
@@ -80,23 +80,18 @@
         "intro": "You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing."
       },
       {
+        "title": "Deselct the Location",
+        "intro": "To deselect an area, just click again on it or select a different area."
+      },
+      {
         "title": "Downloads",
         "element": ".download-wrap .toolbar-btn",
         "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
       },
       {
-        "title": "Deselct the Location",
-        "intro": "To deselect an area, just click again on it or select a different area."
-      },
-      {
         "title": "Login",
         "element": ".signin-btn",
-        "intro": "Use this button to log in and access your downloads and favorites."
-      },
-      {
-        "title": "Login",
-        "element": ".signin-btn",
-        "intro": "Remember: Downloads and favorites lists features are only available for logged in users."
+        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>Remember: Downloads and favorites lists features are only available for logged in users."
       },
       {
         "title": "See you soon!",
