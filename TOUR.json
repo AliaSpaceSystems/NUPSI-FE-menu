@@ -91,7 +91,7 @@
       {
         "title": "Login",
         "element": ".signin-btn",
-        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>Remember: downloads and favorites lists features are only available for logged in users."
+        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>Remember: downloads and favorites list features are available only to logged-in users."
       },
       {
         "title": "See you soon!",
