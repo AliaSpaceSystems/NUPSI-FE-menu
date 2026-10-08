@@ -61,7 +61,7 @@
       },
       {
         "title": "Imagery",
-        "element": ".side-toolbar-btn:has(.icon-layers)",
+        "element": ".side-toolbar-btn[aria-label=\"Layers\"]",
         "intro": "You can customize your map with the Layers menu..."
       },
       {
