@@ -1,7 +1,7 @@
 {
     "steps": [
       {
-        "title": "Welcome to NUPSI-003",
+        "title": "Welcome to NUPSI-004",
         "intro": "Let's take a quick tour."
       },
       {
@@ -17,7 +17,7 @@
       {
         "title": "Browse Products",
         "element": ".menu-tabs .menu-tab:last-child",
-        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked) { nextBtn.dataset.hooked = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".menu-sidebar-close\")?.click(); const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
+        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked0) { nextBtn.dataset.hooked0 = \"true\"; nextBtn.addEventListener(\"click\", (e) => { e.stopImmediatePropagation(); document.querySelector(\".menu-sidebar-close\")?.click(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } introJs().nextStep(); }, 500); }, true); } style='display:none;' />"
       },
       {
         "title": "Product",
@@ -52,7 +52,7 @@
       {
         "title": "Choose the Location",
         "element": ".polygon-wrap .toolbar-btn",
-        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", () => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
+        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", (e) => { e.stopImmediatePropagation(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } introJs().nextStep(); }, 500); }, true); }' style='display:none;' />"
       },
       {
         "title": "Choose the Location",
