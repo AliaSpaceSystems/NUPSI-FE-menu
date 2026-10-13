@@ -20,6 +20,10 @@
         "intro": "... and by source in the Satellite tab."
       },
       {
+        "element": ".menu-tabs .menu-tab:last-child",  
+        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-tab:last-child\").click(), 200);' style='display:none;' />Clicking the button after a 200ms delay!"
+      },
+      {
         "title": "Product",
         "element": ".what-panel",
         "intro": "In this section, you can check the selected product: WHAT is displayed."
@@ -31,7 +35,7 @@
       },
       {
         "title": "Time Frame",
-        "element": ".month-panel .month-nav:nth-child(2)",
+        "element": ".month-panel .month-nav:nth-child(3)",
         "intro": "Use the arrows to select a month of your choosing."
       },
       {
@@ -66,7 +70,7 @@
       },
       {
         "title": "Statistics",
-        "element": ".side-toolbar-btn[aria-label=\"Statistics\"]",
+        "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
         "intro": "... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
       },
       {
@@ -76,7 +80,7 @@
       },
       {
         "title": "Split view",
-        "element": ".side-toolbar-btn[aria-label=\"Compare\"]",
+        "element": ".side-toolbar-btn[aria-label*=\"Compare\"]",
         "intro": "... And compare two different products over the same area through a vertical split line."
       },
       {
