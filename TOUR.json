@@ -20,13 +20,9 @@
         "intro": "... and by source in the Satellite tab."
       },
       {
-        "element": ".menu-tabs .menu-tab:last-child",  
-        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-sidebar-close\").click(), 200);' style='display:none;' />"
-      },
-      {
         "title": "Product",
         "element": ".what-panel",
-        "intro": "In this section, you can check the selected product: WHAT is displayed."
+        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-sidebar-close\").click(), 200);' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
       },
       {
         "title": "Time Frame",
