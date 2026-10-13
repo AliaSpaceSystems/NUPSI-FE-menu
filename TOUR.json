@@ -1,7 +1,7 @@
 {
     "steps": [
       {
-        "title": "Welcome to NUPSI",
+        "title": "Welcome to NUPSI-003",
         "intro": "Let's take a quick tour."
       },
       {
@@ -17,10 +17,7 @@
       {
         "title": "Browse Products",
         "element": ".menu-tabs .menu-tab:last-child",
-        "intro": "... and by source in the Satellite tab."
-      },
-      {
-        "intro": "<img src='x' onerror='document.querySelector(\".menu-sidebar-close\").click();' style='display:none;' /><img src='x' onerror='const btn = document.querySelector(\"button.navbar-hamburger\"); if (btn && btn.offsetParent !== null) { btn.click(); }; document.querySelector(\".introjs-nextbutton\").click();' style='display:none;' />"
+        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked) { nextBtn.dataset.hooked = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".menu-sidebar-close\")?.click(); const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
       },
       {
         "title": "Product",
@@ -55,10 +52,7 @@
       {
         "title": "Choose the Location",
         "element": ".polygon-wrap .toolbar-btn",
-        "intro": "You can also draw your custom area using the polygon tool."
-      },
-      {
-        "intro": "<img src='x' onerror='const btn = document.querySelector(\"button.navbar-hamburger\"); if (btn && btn.offsetParent !== null) { btn.click(); }; document.querySelector(\".introjs-nextbutton\").click();' style='display:none;' />"
+        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", () => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
       },
       {
         "title": "Choose the Location",
@@ -68,22 +62,22 @@
       {
         "title": "Imagery",
         "element": ".side-toolbar-btn[aria-label=\"Layers\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\"Layers\"]\").click();' style='display:none;' />You can customize your map with the Layers menu..."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Layers\\"]\").click();' style='display:none;' />You can customize your map with the Layers menu..."
       },
       {
         "title": "Statistics",
         "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label*=\"Statistics\"]\").click();' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label*=\\"Statistics\\"]\").click();' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
       },
       {
         "title": "Stories",
         "element": ".side-toolbar-btn[aria-label=\"Stories\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\"Stories\"]\").click();' style='display:none;' />... Play timelapse-style animations..."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Stories\\"]\").click();' style='display:none;' />... Play timelapse-style animations..."
       },
       {
         "title": "Split view",
         "element": ".side-toolbar-btn[aria-label*=\"Compare\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\"Stories\"]\").click();' style='display:none;' />... And compare two different products over the same area through a vertical split line."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Stories\\"]\").click();' style='display:none;' />... And compare two different products over the same area through a vertical split line."
       },
       {
         "title": "Navigate NUTS level",
@@ -97,12 +91,12 @@
       {
         "title": "Login",
         "element": ".signin-wrap",
-        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users."
+        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked2) { nextBtn.dataset.hooked2 = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".navbar-info-btn\")?.click(); }); }' style='display:none;' />"
       },
       {
         "title": "See you soon!",
         "element": ".info-panel-item:last-child",
-        "intro": "<img src='x' onerror='document.querySelector(\".navbar-info-btn\").click();' style='display:none;' />If you want to take the tour again, just click the Info button and then select Start tour."
+        "intro": "If you want to take the tour again, just click the Info button and then select Start tour."
       }
     ]
   }
