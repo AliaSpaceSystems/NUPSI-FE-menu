@@ -91,11 +91,11 @@
       {
         "title": "Login",
         "element": ".signin-wrap",
-        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked2) { nextBtn.dataset.hooked2 = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".navbar-info-btn\")?.click(); }); }' style='display:none;' />"
+        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users."
       },
       {
         "title": "See you soon!",
-        "element": ".info-panel-item:last-child",
+        "element": ".navbar-info-btn",
         "intro": "If you want to take the tour again, just click the Info button and then select Start tour."
       }
     ]
