@@ -21,7 +21,7 @@
       },
       {
         "element": ".menu-tabs .menu-tab:last-child",  
-        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-tab:last-child\").click(), 200);' style='display:none;' />Clicking the button after a 200ms delay!"
+        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-sidebar-close\").click(), 200);' style='display:none;' />"
       },
       {
         "title": "Product",
