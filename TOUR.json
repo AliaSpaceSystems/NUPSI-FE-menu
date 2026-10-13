@@ -31,7 +31,7 @@
       },
       {
         "title": "Time Frame",
-        "element": ".month-panel .month-nav:last-child",
+        "element": ".month-panel .month-nav:nth-child(2)",
         "intro": "Use the arrows to select a month of your choosing."
       },
       {
@@ -66,17 +66,17 @@
       },
       {
         "title": "Statistics",
-        "element": "[data-tooltip^=\"Statistics\"]",
+        "element": ".side-toolbar-btn[aria-label=\"Statistics\"]",
         "intro": "... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
       },
       {
         "title": "Stories",
-        "element": "[data-tooltip=\"Stories\"]",
+        "element": ".side-toolbar-btn[aria-label=\"Stories\"]",
         "intro": "... Play timelapse-style animations..."
       },
       {
         "title": "Split view",
-        "element": "[data-tooltip^=\"Compare\"]",
+        "element": ".side-toolbar-btn[aria-label=\"Compare\"]",
         "intro": "... And compare two different products over the same area through a vertical split line."
       },
       {
@@ -90,7 +90,7 @@
       },
       {
         "title": "Login",
-        "element": ".signin-btn",
+        "element": ".signin-wrap",
         "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users."
       },
       {
