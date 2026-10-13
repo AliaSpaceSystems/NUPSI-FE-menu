@@ -1,7 +1,7 @@
 {
     "steps": [
       {
-        "title": "Welcome to NUPSI-007",
+        "title": "Welcome to NUPSI",
         "intro": "Let's take a quick tour."
       },
       {
@@ -17,7 +17,7 @@
       {
         "title": "Browse Products",
         "element": ".menu-tabs .menu-tab:last-child",
-        "intro": "... and by source in the Satellite tab.<style>.introjs-nextbutton { display: none !important; }</style><button class='introjs-button' style='float: right; font-weight: bold;' onclick='document.querySelector(\".menu-sidebar-close\")?.click(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } document.querySelector(\".introjs-nextbutton\")?.click(); }, 500);'>Next &rarr;</button><div style='clear: both;'></div>"
+        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked) { nextBtn.dataset.hooked = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".menu-sidebar-close\")?.click(); const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
       },
       {
         "title": "Product",
@@ -52,7 +52,7 @@
       {
         "title": "Choose the Location",
         "element": ".polygon-wrap .toolbar-btn",
-        "intro": "You can also draw your custom area using the polygon tool.<style>.introjs-nextbutton { display: none !important; }</style><button class='introjs-button' style='float: right; font-weight: bold;' onclick='setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } document.querySelector(\".introjs-nextbutton\")?.click(); }, 500);'>Next &rarr;</button><div style='clear: both;'></div>"
+        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", () => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
       },
       {
         "title": "Choose the Location",
