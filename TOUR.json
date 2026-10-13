@@ -1,7 +1,7 @@
 {
     "steps": [
       {
-        "title": "Welcome to NUPSI",
+        "title": "Welcome to NUPSI-000",
         "intro": "Let's take a quick tour."
       },
       {
@@ -20,9 +20,13 @@
         "intro": "... and by source in the Satellite tab."
       },
       {
+        "element": "body",
+        "intro": "<img src='x' onerror='document.querySelector(\".menu-sidebar-close\").click();' style='display:none;' /><img src='x' onerror='const btn = document.querySelector(\"button.navbar-hamburger\"); if (btn && btn.offsetParent !== null) { btn.click(); }; document.querySelector(\".introjs-nextbutton\").click();' style='display:none;' />"
+      },
+      {
         "title": "Product",
         "element": ".what-panel",
-        "intro": "<img src='x' onerror='setTimeout(() => document.querySelector(\".menu-sidebar-close\").click(), 0);' style='display:none;' /><img src='x' onerror='setTimeout(() => document.querySelector(\".navbar-hamburger\").click(), 50);' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
+        "intro": "In this section, you can check the selected product: WHAT is displayed."
       },
       {
         "title": "Time Frame",
