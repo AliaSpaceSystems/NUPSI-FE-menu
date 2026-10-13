@@ -1,7 +1,7 @@
 {
     "steps": [
       {
-        "title": "Welcome to NUPSI-006",
+        "title": "Welcome to NUPSI-007",
         "intro": "Let's take a quick tour."
       },
       {
@@ -17,7 +17,7 @@
       {
         "title": "Browse Products",
         "element": ".menu-tabs .menu-tab:last-child",
-        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked0) { nextBtn.dataset.hooked0 = \"true\"; nextBtn.addEventListener(\"click\", (e) => { e.stopImmediatePropagation(); document.querySelector(\".menu-sidebar-close\")?.click(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } const currentTour = window.introJs ? window.introJs() : null; if (currentTour && typeof currentTour.nextStep === \"function\") { currentTour.nextStep(); } else { document.querySelector(\".introjs-nextbutton\")?.click(); } }, 500); }, true); }' style='display:none; width:0; height:0;' />"
+        "intro": "... and by source in the Satellite tab.<style>.introjs-nextbutton { display: none !important; }</style><button class='introjs-button' style='float: right; font-weight: bold;' onclick='document.querySelector(\".menu-sidebar-close\")?.click(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } document.querySelector(\".introjs-nextbutton\")?.click(); }, 500);'>Next &rarr;</button><div style='clear: both;'></div>"
       },
       {
         "title": "Product",
@@ -52,7 +52,7 @@
       {
         "title": "Choose the Location",
         "element": ".polygon-wrap .toolbar-btn",
-        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", (e) => { e.stopImmediatePropagation(); setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } const currentTour = window.introJs ? window.introJs() : null; if (currentTour && typeof currentTour.nextStep === \"function\") { currentTour.nextStep(); } else { document.querySelector(\".introjs-nextbutton\")?.click(); } }, 500); }, true); }' style='display:none; width:0; height:0;' />"
+        "intro": "You can also draw your custom area using the polygon tool.<style>.introjs-nextbutton { display: none !important; }</style><button class='introjs-button' style='float: right; font-weight: bold;' onclick='setTimeout(() => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } document.querySelector(\".introjs-nextbutton\")?.click(); }, 500);'>Next &rarr;</button><div style='clear: both;'></div>"
       },
       {
         "title": "Choose the Location",
