@@ -62,22 +62,22 @@
       {
         "title": "Imagery",
         "element": ".side-toolbar-btn[aria-label=\"Layers\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Layers\\"]\").click();' style='display:none;' />You can customize your map with the Layers menu..."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Layers]\").click();' style='display:none;' />You can customize your map with the Layers menu..."
       },
       {
         "title": "Statistics",
         "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label*=\\"Statistics\\"]\").click();' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label*=Statistics]\").click();' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
       },
       {
         "title": "Stories",
         "element": ".side-toolbar-btn[aria-label=\"Stories\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Stories\\"]\").click();' style='display:none;' />... Play timelapse-style animations..."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Stories]\").click();' style='display:none;' />... Play timelapse-style animations..."
       },
       {
         "title": "Split view",
         "element": ".side-toolbar-btn[aria-label*=\"Compare\"]",
-        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=\\"Stories\\"]\").click();' style='display:none;' />... And compare two different products over the same area through a vertical split line."
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Stories]\").click();' style='display:none;' />... And compare two different products over the same area through a vertical split line."
       },
       {
         "title": "Navigate NUTS level",
