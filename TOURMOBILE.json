@@ -22,7 +22,7 @@
     {
       "title": "Product",
       "element": ".what-panel",
-      "intro": "<img src='data:,' onerror='document.querySelector('.menu-sidebar-close').click();window.__nupsiTour&&window.__nupsiTour(\"burger\");' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
+      "intro": "<img src='data:,' onerror='var c=document.querySelector(\".menu-sidebar-close\");if(c)c.click();window.__nupsiTour&&window.__nupsiTour(\"burger\");' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
     },
     {
       "title": "Time Frame",
@@ -67,7 +67,7 @@
     {
       "title": "Statistics",
       "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
-      "intro": "<img src='data:,' onerror='document.querySelector('[aria-label=\"Statistics (unavailable)\"]').removeAttribute('disabled');window.__nupsiTour&&window.__nupsiTour(\"Statistics\");' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
+      "intro": "<img src='data:,' onerror='var b=document.querySelector(\".side-toolbar-btn[aria-label*=Statistics]\");if(b&&b.disabled)b.removeAttribute(\"disabled\");window.__nupsiTour&&window.__nupsiTour(\"Statistics\");' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
     },
     {
       "title": "Stories",
