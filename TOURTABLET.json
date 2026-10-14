@@ -1,0 +1,102 @@
+{
+    "steps": [
+      {
+        "title": "Welcome to NUPSI",
+        "intro": "Let's take a quick tour."
+      },
+      {
+        "title": "Browse Products",
+        "element": ".menu-sidebar",
+        "intro": "Search for a product or browse through the product catalog using this menu."
+      },
+      {
+        "title": "Browse Products",
+        "element": ".menu-tabs .menu-tab:first-child",
+        "intro": "Products are categorized by topic in the Category tab..."
+      },
+      {
+        "title": "Browse Products",
+        "element": ".menu-tabs .menu-tab:last-child",
+        "intro": "... and by source in the Satellite tab.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked) { nextBtn.dataset.hooked = \"true\"; nextBtn.addEventListener(\"click\", () => { document.querySelector(\".menu-sidebar-close\")?.click(); const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
+      },
+      {
+        "title": "Product",
+        "element": ".what-panel",
+        "intro": "In this section, you can check the selected product: WHAT is displayed."
+      },
+      {
+        "title": "Time Frame",
+        "element": ".month-panel .month-info",
+        "intro": "In this section, you can check the selected month: WHEN the displayed product refers to."
+      },
+      {
+        "title": "Time Frame",
+        "element": ".month-panel .month-nav:nth-child(3)",
+        "intro": "Use the arrows to select a month of your choosing."
+      },
+      {
+        "title": "Location",
+        "element": ".where-panel",
+        "intro": "In this section, you can check the selected place: WHERE the displayed product refers to."
+      },
+      {
+        "title": "Downloads",
+        "element": ".download-wrap .toolbar-btn",
+        "intro": "Download your GeoTIFFs and GeoJSONs using this download button."
+      },
+      {
+        "title": "Choose the Location",
+        "element": "[data-tooltip=\"Upload\"]",
+        "intro": "If you want to use a GeoJSON of your own, click on the upload button."
+      },
+      {
+        "title": "Choose the Location",
+        "element": ".polygon-wrap .toolbar-btn",
+        "intro": "You can also draw your custom area using the polygon tool.<img src='x' onerror='const nextBtn = document.querySelector(\".introjs-nextbutton\"); if (nextBtn && !nextBtn.dataset.hooked1) { nextBtn.dataset.hooked1 = \"true\"; nextBtn.addEventListener(\"click\", () => { const burger = document.querySelector(\"button.navbar-hamburger\"); if (burger && burger.offsetParent !== null) { burger.click(); } }); }' style='display:none;' />"
+      },
+      {
+        "title": "Choose the Location",
+        "element": ".navbar-search-btn",
+        "intro": "Or you can select a location using the search bar."
+      },
+      {
+        "title": "Imagery",
+        "element": ".side-toolbar-btn[aria-label=\"Layers\"]",
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Layers]\").click();' style='display:none;' />You can customize your map with the Layers menu..."
+      },
+      {
+        "title": "Statistics",
+        "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label*=Statistics]\").click();' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
+      },
+      {
+        "title": "Stories",
+        "element": ".side-toolbar-btn[aria-label=\"Stories\"]",
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Stories]\").click();' style='display:none;' />... Play timelapse-style animations..."
+      },
+      {
+        "title": "Split view",
+        "element": ".side-toolbar-btn[aria-label*=\"Compare\"]",
+        "intro": "<img src='x' onerror='document.querySelector(\".side-toolbar-btn[aria-label=Stories]\").click();' style='display:none;' />... And compare two different products over the same area through a vertical split line."
+      },
+      {
+        "title": "Navigate NUTS level",
+        "element": ".footer .vintage-badge",
+        "intro": "You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing."
+      },
+      {
+        "title": "Deselct the Location",
+        "intro": "To deselect an area, just click again on it or select a different area."
+      },
+      {
+        "title": "Login",
+        "element": ".signin-wrap",
+        "intro": "Use this button to log in and access your downloads and favorites.<br/><br/>*Remember: downloads and favorites list features are available only to logged-in users."
+      },
+      {
+        "title": "See you soon!",
+        "element": ".navbar-info-btn",
+        "intro": "If you want to take the tour again, just click the Info button and then select Start tour."
+      }
+    ]
+  }
