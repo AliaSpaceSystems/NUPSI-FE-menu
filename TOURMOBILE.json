@@ -67,7 +67,7 @@
     {
       "title": "Statistics",
       "element": ".side-toolbar-btn[aria-label*=\"Statistics\"]",
-      "intro": "<img src='data:,' onerror='window.__nupsiTour&&window.__nupsiTour(\"Statistics\");' style='display:none;' />... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
+      "intro": "... Analyze data statistics...<br/><br/>*Remember: not all the thematic maps support the statistics feature."
     },
     {
       "title": "Stories",
