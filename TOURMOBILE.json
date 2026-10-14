@@ -81,7 +81,7 @@
     },
     {
       "title": "Navigate NUTS level",
-      "intro": "<img src='data:,' onerror='window.__nupsiTour&&window.__nupsiTour(\"none\");' style='display:none;' />You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing."
+      "intro": "<img src='data:,' onerror='var c=document.querySelector(\".menu-sidebar-close\");if(c)c.click();window.__nupsiTour&&window.__nupsiTour(\"none\");' style='display:none;' />You can select different NUTS levels by zooming in and out on the map and clicking on the area of your choosing."
     },
     {
       "title": "Deselect the Location",
