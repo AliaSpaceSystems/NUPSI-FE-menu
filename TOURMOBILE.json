@@ -22,7 +22,7 @@
     {
       "title": "Product",
       "element": ".what-panel",
-      "intro": "<img src='data:,' onerror='if (document.querySelector('.menu-sidebar.open')) document.querySelector('.menu-sidebar-close').click();window.__nupsiTour&&window.__nupsiTour(\"burger\");' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
+      "intro": "<img src='data:,' onerror='document.querySelector('.menu-sidebar-close').click();window.__nupsiTour&&window.__nupsiTour(\"burger\");' style='display:none;' />In this section, you can check the selected product: WHAT is displayed."
     },
     {
       "title": "Time Frame",
