@@ -77,7 +77,7 @@
     {
       "title": "Split view",
       "element": ".side-toolbar-btn[aria-label*=\"Compare\"]",
-      "intro": "<img src='data:,' onerror='window.__nupsiTour&&window.__nupsiTour(\"Compare\");' style='display:none;' />... And compare two different products over the same area through a vertical split line."
+      "intro": "<img src='data:,' onerror='var b=document.querySelector(\".side-toolbar-btn[aria-label*=Compare]\");if(b&&b.disabled)b.removeAttribute(\"disabled\");window.__nupsiTour&&window.__nupsiTour(\"Compare\");' style='display:none;' />... And compare two different products over the same area through a vertical split line."
     },
     {
       "title": "Navigate NUTS level",
